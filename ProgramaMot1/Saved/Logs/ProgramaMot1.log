@@ -993,3 +993,15 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.08.18-22.17.13:979][  0]LogAssetRegistry: Asset discovery search completed in 10.2521 seconds
 [2023.08.18-22.17.13:982][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2023.08.18-22.17.14:039][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.08.18-22.19.04:023][942]LogDerivedDataCache: C:/Users/mactr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.241 and deleted 0 file(s) with total size 0 MiB.
+[2023.08.18-22.22.11:596][ 47]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.18-22.22.27:753][ 47]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.18-22.22.27:762][ 47]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.18-22.22.27:768][ 47]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.18-22.22.27:785][ 48]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.18-22.22.28:736][ 96]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.08.18-22.22.28:743][ 96]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.18-22.22.30:489][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.08.18-22.22.32:138][200]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.18-22.22.32:148][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.18-22.22.39:277][338]LogSlate: Window 'Pick Parent Class' being destroyed
