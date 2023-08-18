@@ -1,0 +1,995 @@
+﻿Log file open, 08/18/23 19:17:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=20464)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProgramaMot1
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\mactr\OneDrive\Desktop\progmotores1\PrgoMot1\ProgramaMot1\ProgramaMot1.uproject -EpicPortal -epicusername=mactrias_1 -epicuserid=9afb9f8e4a1d4de4b58aac3b99f57cb1 -epiclocale=es -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2134] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 5900HX with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="00d3ecef459eb54707a74b93e8bedb45"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.326162
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-8663BE6C45C489D168BA489A83EB0258
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HoudiniEngine
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HoudiniEngine/Content/' mounted to '/HoudiniEngine/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2134] (), CPU: AMD Ryzen 9 5900HX with Radeon Graphics        , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=mactrias_1 -epicuserid=9afb9f8e4a1d4de4b58aac3b99f57cb1 -epiclocale=es -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.08.18-22.17.01:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.08.18-22.17.01:668][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.08.18-22.17.01:668][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.08.18-22.17.01:670][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.08.18-22.17.01:682][  0]LogD3D12RHI: Aftermath initialized
+[2023.08.18-22.17.01:682][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.08.18-22.17.01:866][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.08.18-22.17.01:866][  0]LogD3D12RHI: Adapter has 8033MB of dedicated video memory, 0MB of dedicated system memory, and 16087MB of shared system memory, 1 output[s]
+[2023.08.18-22.17.01:936][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.08.18-22.17.01:936][  0]LogD3D12RHI: Adapter has 496MB of dedicated video memory, 0MB of dedicated system memory, and 16087MB of shared system memory, 0 output[s]
+[2023.08.18-22.17.01:947][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.08.18-22.17.01:947][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16087MB of shared system memory, 0 output[s]
+[2023.08.18-22.17.01:947][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.08.18-22.17.01:947][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.08.18-22.17.01:947][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.08.18-22.17.01:947][  0]LogHAL: Display: Platform has ~ 32 GB [33737932800 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.08.18-22.17.01:947][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.08.18-22.17.01:947][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.08.18-22.17.01:947][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.08.18-22.17.01:947][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.08.18-22.17.01:947][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/Config/WindowsEditor/Editor.ini]
+[2023.08.18-22.17.01:948][  0]LogInit: Computer: LAPTOP-MF8IFS6O
+[2023.08.18-22.17.01:948][  0]LogInit: User: mactr
+[2023.08.18-22.17.01:948][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.08.18-22.17.01:948][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.08.18-22.17.01:948][  0]LogMemory: Memory total: Physical=31.4GB (32GB approx)
+[2023.08.18-22.17.01:948][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.08.18-22.17.01:948][  0]LogMemory: Process Physical Memory: 286.06 MB used, 301.34 MB peak
+[2023.08.18-22.17.01:948][  0]LogMemory: Process Virtual Memory: 259.43 MB used, 259.43 MB peak
+[2023.08.18-22.17.01:948][  0]LogMemory: Physical Memory: 15026.84 MB used,  17148.16 MB free, 32175.00 MB total
+[2023.08.18-22.17.01:948][  0]LogMemory: Virtual Memory: 18891.00 MB used,  15332.00 MB free, 34223.00 MB total
+[2023.08.18-22.17.01:948][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.08.18-22.17.01:953][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.08.18-22.17.01:967][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.08.18-22.17.01:967][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.08.18-22.17.01:967][  0]LogInit: Using OS detected locale (es-ES).
+[2023.08.18-22.17.02:126][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.08.18-22.17.02:126][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2023.08.18-22.17.02:126][  0]LogWindowsTextInputMethodSystem:   - Español (Argentina) - (Keyboard).
+[2023.08.18-22.17.02:126][  0]LogWindowsTextInputMethodSystem:   - Inglés (Estados Unidos) - (Keyboard).
+[2023.08.18-22.17.02:126][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2023.08.18-22.17.02:137][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.08.18-22.17.02:137][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.08.18-22.17.02:237][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.08.18-22.17.02:240][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.08.18-22.17.02:240][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.08.18-22.17.02:314][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.08.18-22.17.02:364][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.08.18-22.17.02:372][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.08.18-22.17.02:395][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.08.18-22.17.02:409][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.08.18-22.17.02:409][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.08.18-22.17.02:431][  0]LogD3D12RHI:     GPU DeviceId: 0x249d (for the marketing name, search the web for "GPU Device Id")
+[2023.08.18-22.17.02:431][  0]LogWindows: Attached monitors:
+[2023.08.18-22.17.02:431][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.08.18-22.17.02:431][  0]LogWindows: Found 1 attached monitors.
+[2023.08.18-22.17.02:431][  0]LogWindows: EnumDisplayDevices:
+[2023.08.18-22.17.02:432][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.08.18-22.17.02:432][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.08.18-22.17.02:432][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.08.18-22.17.02:432][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.08.18-22.17.02:432][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.08.18-22.17.02:432][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.08.18-22.17.02:432][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.08.18-22.17.02:433][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.08.18-22.17.02:433][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2023.08.18-22.17.02:433][  0]LogD3D12RHI:   Driver Version: 536.45 (internal:31.0.15.3645, unified:536.45)
+[2023.08.18-22.17.02:433][  0]LogD3D12RHI:      Driver Date: 6-26-2023
+[2023.08.18-22.17.02:433][  0]LogRHI: Texture pool is 4576 MB (70% of 6538 MB)
+[2023.08.18-22.17.02:433][  0]LogD3D12RHI: Async texture creation enabled
+[2023.08.18-22.17.02:433][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.08.18-22.17.02:450][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.08.18-22.17.02:456][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject"  -platform=all'
+[2023.08.18-22.17.02:456][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject"  -platform=all" ]
+[2023.08.18-22.17.02:479][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.08.18-22.17.02:485][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.08.18-22.17.02:485][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.08.18-22.17.02:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.08.18-22.17.02:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.08.18-22.17.02:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.08.18-22.17.02:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.08.18-22.17.02:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.08.18-22.17.02:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.08.18-22.17.02:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.08.18-22.17.02:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.08.18-22.17.02:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.08.18-22.17.02:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.08.18-22.17.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.08.18-22.17.02:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.08.18-22.17.02:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.08.18-22.17.02:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.08.18-22.17.02:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.08.18-22.17.02:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.08.18-22.17.02:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.08.18-22.17.02:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.08.18-22.17.02:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.08.18-22.17.02:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.08.18-22.17.02:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.08.18-22.17.02:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.08.18-22.17.02:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.08.18-22.17.02:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.08.18-22.17.02:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.08.18-22.17.02:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.08.18-22.17.02:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.08.18-22.17.02:532][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.08.18-22.17.02:538][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.08.18-22.17.02:541][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.08.18-22.17.02:541][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.08.18-22.17.02:541][  0]LogTargetPlatformManager:   ADPCM
+[2023.08.18-22.17.02:541][  0]LogTargetPlatformManager:   PCM
+[2023.08.18-22.17.02:544][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.08.18-22.17.02:544][  0]LogTargetPlatformManager:   BINKA
+[2023.08.18-22.17.02:544][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.08.18-22.17.02:544][  0]LogTargetPlatformManager:   OGG
+[2023.08.18-22.17.02:544][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.08.18-22.17.02:544][  0]LogTargetPlatformManager:   OPUS
+[2023.08.18-22.17.02:581][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.08.18-22.17.02:581][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   SF_METAL
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.08.18-22.17.02:586][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.08.18-22.17.02:589][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.08.18-22.17.02:589][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.08.18-22.17.02:589][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.08.18-22.17.02:589][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.08.18-22.17.02:589][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.08.18-22.17.02:589][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.08.18-22.17.02:589][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.08.18-22.17.02:589][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.08.18-22.17.02:589][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.08.18-22.17.02:590][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.08.18-22.17.02:590][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.08.18-22.17.02:590][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.08.18-22.17.02:591][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.08.18-22.17.02:591][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.08.18-22.17.02:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.08.18-22.17.02:594][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.08.18-22.17.02:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.08.18-22.17.02:594][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.08.18-22.17.02:612][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.08.18-22.17.02:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.08.18-22.17.02:612][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.08.18-22.17.02:619][  0]LogDerivedDataCache: Speed tests for C:/Users/mactr/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.08.18-22.17.02:619][  0]LogDerivedDataCache: Display: Performance to C:/Users/mactr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1576.01MBs, RandomWriteSpeed=171.95MBs. Assigned SpeedClass 'Local'
+[2023.08.18-22.17.02:620][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mactr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.08.18-22.17.02:621][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.08.18-22.17.02:621][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.08.18-22.17.02:628][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.08.18-22.17.02:629][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.08.18-22.17.02:629][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/Shaders/WorkingDirectory/5364/).
+[2023.08.18-22.17.02:629][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mactr/AppData/Local/Temp/UnrealShaderWorkingDir/267FAB2B4244040A537331B314F17DAD/'.
+[2023.08.18-22.17.02:629][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.08.18-22.17.02:629][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.08.18-22.17.03:699][  0]LogSlate: Using FreeType 2.10.0
+[2023.08.18-22.17.03:699][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.08.18-22.17.03:728][  0]LogAssetRegistry: FAssetRegistry took 0.0100 seconds to start up
+[2023.08.18-22.17.03:733][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.08.18-22.17.03:931][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.08.18-22.17.03:932][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.08.18-22.17.04:141][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.08.18-22.17.04:141][  0]LogDeviceProfileManager: Active device profile: [00000765FCBB6C80][00000765ED770000 50] WindowsEditor
+[2023.08.18-22.17.04:141][  0]LogDeviceProfileManager: Profiles: [00000765FCBB6740][00000765DE600000 50] Windows, [00000765FCBB6C80][00000765ED770000 50] WindowsEditor, [00000765FCBB6200][00000765FCE80000 50] WindowsServer, [00000765FCBB40C0][00000765FCE85000 50] WindowsClient, [00000765FCBB3F00][00000765FCE87800 50] IOS, [00000765FCBB5CC0][00000765FCE8A000 50] iPadAir2, [00000765FCBB7000][00000765ED772800 50] IPadPro, [00000765FCBB7380][00000765FCE8C800 50] iPadAir3, [00000765FCBB2840][00000765FCE90000 50] iPadAir4, [00000765FCBB47C0][00000765FCE95000 50] iPadMini4, [00000765FCBB4EC0][00000765FCE97800 50] iPadMini5, [00000765FCBB7540][00000765FCE9A000 50] iPadMini6, [00000765FCBB9F40][00000765FCF10000 50] iPhone6S, [00000765FCBBA2C0][00000765FCF12800 50] iPhone7, [00000765FCBBA640][00000765FCF15000 50] iPodTouch7, [00000765FCBB2300][00000765FCF1A000 50] iPhone6SPlus, [00000765FCBB9A00][00000765FCF1C800 50] iPhone7Plus, [00000765FCBB5080][00000765FCE82800 50] iPhoneSE, [00000765FCBB3800][00000765FCE9C800 50] iPhone8, [00000765FCBB9840][00000765FCF17800 50] iPhone8Plus, [00000765FCBB4B40][00000765FCEA0000 50] iPhoneX, [00000765FCBB4600][00000765FCEA5000 50] iPhoneXS, [00000765FCBB9680][00000765FCEA7800 50] iPhoneXSMax, [00000765FCBB6AC0][00000765FCEAA000 50] iPhoneXR, [00000765FCBB2680][00000765FCEAC800 50] iPhone11, [00000765FCBB32C0][00000765FCE92800 50] iPhone11Pro, [00000765FCBB3640][00000765FCED0000 50] iPhone11ProMax, [00000765FCBB9BC0][00000765FCED5000 50] iPhoneSE2, [00000765FCBB2A00][00000765FCED7800 50] iPhone12Mini, [00000765FCBB8DC0][00000765FCEDA000 50] iPhone12, [00000765FCBB63C0][00000765FCEDC800 50] iPhone12Pro, [00000765FCBB8C00][00000765FCEA2800 50] iPhone12ProMax, [00000765FCBB6040][00000765FCEE0000 50] iPhone13Mini, [00000765FCBB39C0][00000765FCEE5000 50] iPhone13, [00000765FCBB4D00][00000765FCEE7800 50] iPhone13Pro, [00000765FCBB9300][00000765FCEEA000 50] iPhone13ProMax, [00000765FCBB2F40][00000765FCEEC800 50] iPadPro105, [00000765FCBB8F80][00000765FCED2800 50] iPadPro129, [00000765FCBB4280][00000765FCEF0000 50] iPadPro97, [00000765FCBB71C0][00000765FCEF5000 50] iPadPro2_129, [00000765FCBB8A40][00000765FCEF7800 50] iPad5, [00000765FCBB5780][00000765FCEFA000 50] iPad6, [00000765FCBB9140][00000765FCEFC800 50] iPad7, [00000765FCBB7A80][00000765FCEE2800 50] iPad8, [00000765FCBB86C0][00000765FCF00000 50] iPad9, [00000765FCBB55C0][00000765FCF05000 50] iPadPro11, [00000765FCBB6E40][00000765FCF07800 50] iPadPro2_11, [00000765FCBB2D80][00000765FCF0A000 50] iPadPro3_11, [00000765FCBB5400][00000765FCF0C800 50] iPadPro3_129, [00000765FCBBA480][00000765FCEF2800 50] iPadPro4_129, [00000765FCBBAB80][00000765FCF20000 50] iPadPro5_129, [00000765FCBB7700][00000765FCF25000 50] AppleTV, [00000765FCBB3D40][00000765FCF27800 50] AppleTV4K, [00000765FCBB94C0][00000765FCF2A000 50] TVOS, [00000765FCBBC400][00000765FCF02800 50] Mac, [00000765FCBBC780][00000765FCF2C800 50] MacEditor, [00000765FCBB4980][00000765FCF30000 50] MacClient, [00000765FCBB8880][00000765FCF35000 50] MacServer, [00000765FCBBCB00][00000765FCF3A000 50] Linux, [00000765FCBBCE80][00000765FCF37800 50] LinuxEditor, [00000765FCBB3480][00000765FCF3C800 50] LinuxArm64Editor, [00000765FCBB4440][00000765FCF22800 50] LinuxArm64, [00000765FCBB8180][00000765FCF40000 50] LinuxClient, [00000765FCBBD040][00000765FCF45000 50] LinuxArm64Client, [00000765FCBBC240][00000765FCF47800 50] LinuxServer, [00000765FCBB5E80][00000765FCF4A000 50] LinuxArm64Server, [00000765FCBBC080][00000765FCF4C800 50] Android, [00000765FCBBBEC0][00000765FCF32800 50] Android_Preview_OpenGL, [00000765FCBBB440][00000765FCF50000 50] Android_Preview_Vulkan, [00000765FCBBA9C0][00000765FCF55000 50] Android_Low, [00000765FCBBC940][00000765FCF57800 50] Android_Mid, [00000765FCBB5940][00000765FCF5A000 50] Android_High, [00000765FCBBCCC0][00000765FCF5C800 50] Android_Default, [00000765FCBBB980][00000765FCF42800 50] Android_Adreno4xx, [00000765FCBB3100][00000765FCF60000 50] Android_Adreno5xx_Low, [00000765FCBBAD40][00000765FCF65000 50] Android_Adreno5xx, [00000765FCBBBD00][00000765FCF67800 50] Android_Adreno6xx, [00000765FCBB7C40][00000765FCF6A000 50] Android_Adreno6xx_Vulkan, [00000765FCBB6580][00000765FCF6C800 50] Android_Adreno7xx, [00000765FCBB7E00][00000765FCF52800 50] Android_Adreno7xx_Vulkan, [00000765FCBBB0C0][00000765FCF80000 50] Android_Mali_T6xx, [00000765FCBB2BC0][00000765FCF85000 50] Android_Mali_T7xx, [00000765FCBB24C0][00000765FCF87800 50] Android_Mali_T8xx, [00000765FCBBDAC0][00000765FCF8A000 50] Android_Mali_G71, [00000765FCBBA800][00000765FCF8C800 50] Android_Mali_G72, [00000765FCBBD740][00000765FCF62800 50] Android_Mali_G72_Vulkan, [00000765FCBB9D80][00000765FCF90000 50] Android_Mali_G76, [00000765FCBBA100][00000765FCF95000 50] Android_Mali_G76_Vulkan, [00000765FCBB2140][00000765FCF97800 50] Android_Mali_G77, [00000765FCBBBB40][00000765FCF9A000 50] Android_Mali_G77_Vulkan, [00000765FCBBD3C0][00000765FCF9C800 50] Android_Mali_G78, [00000765FCBBD200][00000765FCF82800 50] Android_Mali_G78_Vulkan, [00000765FCBB8340][00000765FCFA0000 50] Android_Mali_G710, [00000765FCBBE380][00000765FCFA5000 50] Android_Mali_G710_Vulkan, [00000765FCBBE540][00000765FCFA7800 50] Android_Xclipse_920, [00000765FCBB8500][00000765FCFAA000 50] Android_Xclipse_920_Vulkan, [00000765FCBBB280][00000765FCFAC800 50] Android_Vulkan_SM5, [00000765FCBBB600][00000765FCF92800 50] Android_PowerVR_G6xxx, [00000765FCBBD900][00000765FCFB0000 50] Android_PowerVR_GT7xxx, [00000765FCBBEFC0][00000765FCFB5000 50] Android_PowerVR_GE8xxx, [00000765FCBBEE00][00000765FCFB7800 50] Android_PowerVR_GM9xxx, [00000765FCBB78C0][00000765FCFBA000 50] Android_PowerVR_GM9xxx_Vulkan, [00000765FCBB3B80][00000765FCFBC800 50] Android_TegraK1, [00000765FCBBF180][00000765FCFA2800 50] Android_Unknown_Vulkan, [00000765FCBB5B00][00000765FCFC0000 50] Oculus_Quest, [00000765FCBBD580][00000765FCFC5000 50] Oculus_Quest2, [00000765FCBBEA80][00000765FCFC7800 50] HoloLens, 
+[2023.08.18-22.17.04:141][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.08.18-22.17.04:158][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.08.18-22.17.04:314][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.08.18-22.17.04:314][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.08.18-22.17.04:314][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.08.18-22.17.04:314][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.08.18-22.17.04:314][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.08.18-22.17.04:328][  0]LogNetVersion: ProgramaMot1 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1759894929)
+[2023.08.18-22.17.04:430][  0]LogSlate: Border
+[2023.08.18-22.17.04:430][  0]LogSlate: BreadcrumbButton
+[2023.08.18-22.17.04:430][  0]LogSlate: Default
+[2023.08.18-22.17.04:430][  0]LogSlate: Icons.Save
+[2023.08.18-22.17.04:430][  0]LogSlate: Icons.Toolbar.Settings
+[2023.08.18-22.17.04:430][  0]LogSlate: ListView
+[2023.08.18-22.17.04:430][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.08.18-22.17.04:430][  0]LogSlate: SoftwareCursor_Grab
+[2023.08.18-22.17.04:430][  0]LogSlate: TableView.DarkRow
+[2023.08.18-22.17.04:430][  0]LogSlate: TableView.Row
+[2023.08.18-22.17.04:430][  0]LogSlate: TreeView
+[2023.08.18-22.17.04:578][  0]SourceControl: Source control is disabled
+[2023.08.18-22.17.04:601][  0]SourceControl: Source control is disabled
+[2023.08.18-22.17.04:602][  0]SourceControl: Source control is disabled
+[2023.08.18-22.17.04:697][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.08.18-22.17.04:697][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.08.18-22.17.04:697][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.08.18-22.17.04:897][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CA4528424E3803FEB99E3F94322818B1 | Instance: 9497C4244B2FF6DA7BC493944C3C01C7 (LAPTOP-MF8IFS6O-5364).
+[2023.08.18-22.17.05:061][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.08.18-22.17.05:083][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.08.18-22.17.05:113][  0]LogPython: Using Python 3.9.7
+[2023.08.18-22.17.05:806][  0]SourceControl: Source control is disabled
+[2023.08.18-22.17.05:815][  0]SourceControl: Source control is disabled
+[2023.08.18-22.17.05:820][  0]SourceControl: Source control is disabled
+[2023.08.18-22.17.05:826][  0]LogUProjectInfo: Found projects:
+[2023.08.18-22.17.06:118][  0]LogOpenImageDenoise: OIDN starting up
+[2023.08.18-22.17.06:134][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.08.18-22.17.06:154][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.08.18-22.17.06:154][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.08.18-22.17.06:195][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2023.08.18-22.17.06:195][  0]LogHoudiniEngine: Failed locating or loading libHAPIL.dll
+[2023.08.18-22.17.06:280][  0]LogCollectionManager: Loaded 0 collections in 0.001696 seconds
+[2023.08.18-22.17.06:356][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/Collections/' took 0.00s
+[2023.08.18-22.17.06:356][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Developers/mactr/Collections/' took 0.00s
+[2023.08.18-22.17.06:356][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Collections/' took 0.00s
+[2023.08.18-22.17.06:577][  0]LogEngine: Initializing Engine...
+[2023.08.18-22.17.06:589][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.08.18-22.17.06:590][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.08.18-22.17.06:799][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.08.18-22.17.06:800][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.08.18-22.17.06:809][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-22.17.06:837][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.08.18-22.17.06:837][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.08.18-22.17.06:858][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.08.18-22.17.06:858][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.08.18-22.17.06:858][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.08.18-22.17.06:859][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.08.18-22.17.06:859][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.08.18-22.17.06:859][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.18-22.17.06:859][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.18-22.17.06:859][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.18-22.17.06:859][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.18-22.17.06:859][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.18-22.17.06:859][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.18-22.17.06:859][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.18-22.17.06:859][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.18-22.17.06:859][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.18-22.17.06:859][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.18-22.17.06:859][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.18-22.17.06:865][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.18-22.17.06:892][  0]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Realtek(R) Audio)
+[2023.08.18-22.17.06:892][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.18-22.17.06:894][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.18-22.17.06:894][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.18-22.17.06:895][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.08.18-22.17.06:895][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.08.18-22.17.06:895][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.08.18-22.17.06:895][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.08.18-22.17.06:896][  0]LogInit: FAudioDevice initialized.
+[2023.08.18-22.17.06:896][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.08.18-22.17.06:896][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.08.18-22.17.06:896][  0]LogInit: Texture streaming: Enabled
+[2023.08.18-22.17.06:928][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.08.18-22.17.06:936][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.08.18-22.17.06:958][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.08.18-22.17.06:967][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.08.18-22.17.06:967][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.08.18-22.17.08:089][  0]LogLiveCoding: Display: First instance in process group "UE_ProgramaMot1_0xed1380a1", spawning console
+[2023.08.18-22.17.08:089][  0]LogLiveCoding: Display: Waiting for server
+[2023.08.18-22.17.08:089][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.08.18-22.17.08:092][  0]LogInit: Transaction tracking system initialized
+[2023.08.18-22.17.08:164][  0]BlueprintLog: New page: Editor Load
+[2023.08.18-22.17.08:373][  0]LocalizationService: Localization service is disabled
+[2023.08.18-22.17.08:419][  0]TimingProfiler: Initialize
+[2023.08.18-22.17.08:419][  0]TimingProfiler: OnSessionChanged
+[2023.08.18-22.17.08:419][  0]LoadingProfiler: Initialize
+[2023.08.18-22.17.08:419][  0]LoadingProfiler: OnSessionChanged
+[2023.08.18-22.17.08:419][  0]NetworkingProfiler: Initialize
+[2023.08.18-22.17.08:419][  0]NetworkingProfiler: OnSessionChanged
+[2023.08.18-22.17.08:419][  0]MemoryProfiler: Initialize
+[2023.08.18-22.17.08:419][  0]MemoryProfiler: OnSessionChanged
+[2023.08.18-22.17.09:028][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/' took 0.01s
+[2023.08.18-22.17.09:028][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.08.18-22.17.09:117][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2023.08.18-22.17.09:120][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2023.08.18-22.17.09:120][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2023.08.18-22.17.09:158][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.08.18-22.17.09:161][  0]SourceControl: Source control is disabled
+[2023.08.18-22.17.09:161][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.551
+[2023.08.18-22.17.09:163][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack)
+[2023.08.18-22.17.09:164][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.08.18-22.17.09:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.08.18-22.17.09:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.08.18-22.17.09:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.08.18-22.17.09:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.08.18-22.17.09:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.08.18-22.17.09:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Maps/StarterMap.umap"
+[2023.08.18-22.17.09:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.08.18-22.17.09:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.08.18-22.17.09:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.08.18-22.17.09:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.08.18-22.17.09:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.08.18-22.17.09:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.08.18-22.17.09:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.08.18-22.17.09:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Fire01.uasset"
+[2023.08.18-22.17.09:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.08.18-22.17.09:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.08.18-22.17.09:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.08.18-22.17.09:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Light01.uasset"
+[2023.08.18-22.17.09:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.08.18-22.17.09:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Light02.uasset"
+[2023.08.18-22.17.09:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.08.18-22.17.09:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.08.18-22.17.09:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.08.18-22.17.09:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.08.18-22.17.09:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.08.18-22.17.09:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.08.18-22.17.09:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.08.18-22.17.09:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.08.18-22.17.09:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.08.18-22.17.09:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.08.18-22.17.09:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.08.18-22.17.09:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.08.18-22.17.09:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Steam01.uasset"
+[2023.08.18-22.17.09:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.08.18-22.17.09:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.08.18-22.17.09:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.08.18-22.17.09:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.08.18-22.17.09:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.08.18-22.17.09:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.08.18-22.17.09:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.08.18-22.17.09:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.08.18-22.17.09:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.08.18-22.17.09:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.08.18-22.17.09:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.08.18-22.17.09:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Door.uasset"
+[2023.08.18-22.17.09:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.08.18-22.17.09:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.08.18-22.17.09:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.08.18-22.17.09:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.08.18-22.17.09:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2023.08.18-22.17.09:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.08.18-22.17.09:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.08.18-22.17.09:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.08.18-22.17.09:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.08.18-22.17.09:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.08.18-22.17.09:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.08.18-22.17.09:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.08.18-22.17.09:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.08.18-22.17.09:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.08.18-22.17.09:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.08.18-22.17.09:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.08.18-22.17.09:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.08.18-22.17.09:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.08.18-22.17.09:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.08.18-22.17.09:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.08.18-22.17.09:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.08.18-22.17.09:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.08.18-22.17.09:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.08.18-22.17.09:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.08.18-22.17.09:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.08.18-22.17.09:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.08.18-22.17.09:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.08.18-22.17.09:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.08.18-22.17.09:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.08.18-22.17.09:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.08.18-22.17.09:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.08.18-22.17.09:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.08.18-22.17.09:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.08.18-22.17.09:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.08.18-22.17.09:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.08.18-22.17.09:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.08.18-22.17.09:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.08.18-22.17.09:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.08.18-22.17.09:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.08.18-22.17.09:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.08.18-22.17.09:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.08.18-22.17.09:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.08.18-22.17.09:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.08.18-22.17.09:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.08.18-22.17.09:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.08.18-22.17.09:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.08.18-22.17.09:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.08.18-22.17.09:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.08.18-22.17.09:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.08.18-22.17.09:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.08.18-22.17.09:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.08.18-22.17.09:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.08.18-22.17.09:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.08.18-22.17.09:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.08.18-22.17.09:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.08.18-22.17.09:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.08.18-22.17.09:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.08.18-22.17.09:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.08.18-22.17.09:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.08.18-22.17.09:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.08.18-22.17.09:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.08.18-22.17.09:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.08.18-22.17.09:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.08.18-22.17.09:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.08.18-22.17.09:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.08.18-22.17.09:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.08.18-22.17.09:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.08.18-22.17.09:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.08.18-22.17.09:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.08.18-22.17.09:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.08.18-22.17.09:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.08.18-22.17.09:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.08.18-22.17.09:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.08.18-22.17.09:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.08.18-22.17.09:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.08.18-22.17.09:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.08.18-22.17.09:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.08.18-22.17.09:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.08.18-22.17.09:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.08.18-22.17.09:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.08.18-22.17.09:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.08.18-22.17.09:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.08.18-22.17.09:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.08.18-22.17.09:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.08.18-22.17.09:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.08.18-22.17.09:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.08.18-22.17.09:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.08.18-22.17.09:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.08.18-22.17.09:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.08.18-22.17.09:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.08.18-22.17.09:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.08.18-22.17.09:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.08.18-22.17.09:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.08.18-22.17.09:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.08.18-22.17.09:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.08.18-22.17.09:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.08.18-22.17.09:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.08.18-22.17.09:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.08.18-22.17.09:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.08.18-22.17.09:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.08.18-22.17.09:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.08.18-22.17.09:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.08.18-22.17.09:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.08.18-22.17.09:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.08.18-22.17.09:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.08.18-22.17.09:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.08.18-22.17.09:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.08.18-22.17.09:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.08.18-22.17.09:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.08.18-22.17.09:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.08.18-22.17.09:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.08.18-22.17.09:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.08.18-22.17.09:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.08.18-22.17.09:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.08.18-22.17.09:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.08.18-22.17.09:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.08.18-22.17.09:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.08.18-22.17.09:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.08.18-22.17.09:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.08.18-22.17.09:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.08.18-22.17.09:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.08.18-22.17.09:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.08.18-22.17.09:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.08.18-22.17.09:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.08.18-22.17.09:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.08.18-22.17.09:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.08.18-22.17.09:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.08.18-22.17.09:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.08.18-22.17.09:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.08.18-22.17.09:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.08.18-22.17.09:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.08.18-22.17.09:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.08.18-22.17.09:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.08.18-22.17.09:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.08.18-22.17.09:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.08.18-22.17.09:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.08.18-22.17.09:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.08.18-22.17.09:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.08.18-22.17.09:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.08.18-22.17.09:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.08.18-22.17.09:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.08.18-22.17.09:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.08.18-22.17.09:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.08.18-22.17.09:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.08.18-22.17.09:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.08.18-22.17.09:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.08.18-22.17.09:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.08.18-22.17.09:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.08.18-22.17.09:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.08.18-22.17.09:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.08.18-22.17.09:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.08.18-22.17.09:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.08.18-22.17.09:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.08.18-22.17.09:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.08.18-22.17.09:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.08.18-22.17.09:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.08.18-22.17.09:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.08.18-22.17.09:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.08.18-22.17.09:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.08.18-22.17.09:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.08.18-22.17.09:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.08.18-22.17.09:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.08.18-22.17.09:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.08.18-22.17.09:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.08.18-22.17.09:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.08.18-22.17.09:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.08.18-22.17.09:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.08.18-22.17.09:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.08.18-22.17.09:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.08.18-22.17.09:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.08.18-22.17.09:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.08.18-22.17.09:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.08.18-22.17.09:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.08.18-22.17.09:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.08.18-22.17.09:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.08.18-22.17.09:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.08.18-22.17.09:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.08.18-22.17.09:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.08.18-22.17.09:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.08.18-22.17.09:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.08.18-22.17.09:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.08.18-22.17.09:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.08.18-22.17.09:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.08.18-22.17.09:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.08.18-22.17.09:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.08.18-22.17.09:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.08.18-22.17.09:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.08.18-22.17.09:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.08.18-22.17.09:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.08.18-22.17.09:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.08.18-22.17.09:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.08.18-22.17.09:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.08.18-22.17.09:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.08.18-22.17.09:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.08.18-22.17.09:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.08.18-22.17.09:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.08.18-22.17.09:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.08.18-22.17.09:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.08.18-22.17.09:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.08.18-22.17.09:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.08.18-22.17.09:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2023.08.18-22.17.09:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2023.08.18-22.17.09:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.08.18-22.17.09:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.08.18-22.17.09:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.08.18-22.17.09:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.08.18-22.17.09:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.08.18-22.17.09:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.08.18-22.17.09:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.08.18-22.17.09:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.08.18-22.17.09:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.08.18-22.17.09:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.08.18-22.17.09:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.08.18-22.17.09:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.08.18-22.17.09:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.08.18-22.17.09:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.08.18-22.17.09:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.08.18-22.17.09:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.08.18-22.17.09:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.08.18-22.17.09:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.08.18-22.17.09:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.08.18-22.17.09:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.08.18-22.17.09:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.08.18-22.17.09:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.08.18-22.17.09:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.08.18-22.17.09:867][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.08.18-22.17.09:937][  0]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight) ...
+[2023.08.18-22.17.10:033][  0]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.040890 seconds
+[2023.08.18-22.17.12:325][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight
+[2023.08.18-22.17.12:326][  0]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/HDRI_Epic_Courtyard_Daylight808A005F4380D2B5070F9F8311D14019.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset'
+[2023.08.18-22.17.12:332][  0]LogFeaturePack: Inserted 1 feature packs
+[2023.08.18-22.17.12:333][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.08.18-22.17.12:333][  0]LightingResults: New page: Lighting Build
+[2023.08.18-22.17.12:341][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.08.18-22.17.12:342][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.18-22.17.12:342][  0]MapCheck: New page: Map Check
+[2023.08.18-22.17.12:342][  0]LightingResults: New page: Lighting Build
+[2023.08.18-22.17.12:347][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.18-22.17.12:350][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.18-22.17.12:605][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.08.18-22.17.12:616][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.18-22.17.12:617][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.18-22.17.12:618][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.18-22.17.12:618][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.08.18-22.17.12:680][  0]LogWorldPartition: Display: WorldPartition initialize took 61 ms
+[2023.08.18-22.17.12:682][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.18-22.17.12:687][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.18-22.17.12:688][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.18-22.17.12:688][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,239ms to complete.
+[2023.08.18-22.17.12:688][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.356
+[2023.08.18-22.17.12:702][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.091
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: ================================================
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.08.18-22.17.12:702][  0]LogShaderCompilers: Display: ================================================
+[2023.08.18-22.17.12:782][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.18-22.17.12:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.18-22.17.12:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.18-22.17.12:793][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.18-22.17.12:815][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:815][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:815][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:815][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:816][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:816][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:816][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:816][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:816][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:816][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:817][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:817][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:817][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:817][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:818][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:818][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:818][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:818][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:818][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.08.18-22.17.12:818][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.08.18-22.17.12:818][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.08.18-22.17.13:081][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.08.18-22.17.13:085][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.08.18-22.17.13:086][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.08.18-22.17.13:087][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.08.18-22.17.13:099][  0]LogViewport: Scene viewport resized to 1482x507, mode Windowed.
+[2023.08.18-22.17.13:132][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.18-22.17.13:728][  0]LogStall: Startup...
+[2023.08.18-22.17.13:730][  0]LogStall: Startup complete.
+[2023.08.18-22.17.13:859][  0]LogLoad: (Engine Initialization) Total time: 13.25 seconds
+[2023.08.18-22.17.13:859][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.08.18-22.17.13:954][  0]AssetCheck: New page: Asset Save: HDRI_Epic_Courtyard_Daylight
+[2023.08.18-22.17.13:954][  0]LogContentValidation: Display: Validating TextureCube /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2023.08.18-22.17.13:979][  0]LogAssetRegistry: Asset discovery search completed in 10.2521 seconds
+[2023.08.18-22.17.13:982][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.08.18-22.17.14:039][  0]LogContentStreaming: Texture pool size now 1000 MB
