@@ -1,0 +1,1469 @@
+﻿Log file open, 09/09/23 19:08:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=11704)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProgramaMot1
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2134] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 5900HX with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="00d3ecef459eb54707a74b93e8bedb45"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.241363
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-487C9B3C4803C68C2B0C37BC3009276C
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HoudiniEngine
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HoudiniEngine/Content/' mounted to '/HoudiniEngine/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.2134] (), CPU: AMD Ryzen 9 5900HX with Radeon Graphics        , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.09.09-22.08.48:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.09.09-22.08.48:874][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.09.09-22.08.48:874][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.09.09-22.08.48:876][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.09.09-22.08.48:895][  0]LogD3D12RHI: Aftermath initialized
+[2023.09.09-22.08.48:895][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.09.09-22.08.49:059][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3070 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.09.09-22.08.49:059][  0]LogD3D12RHI: Adapter has 8033MB of dedicated video memory, 0MB of dedicated system memory, and 16087MB of shared system memory, 2 output[s]
+[2023.09.09-22.08.49:131][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.09.09-22.08.49:131][  0]LogD3D12RHI: Adapter has 496MB of dedicated video memory, 0MB of dedicated system memory, and 16087MB of shared system memory, 0 output[s]
+[2023.09.09-22.08.49:143][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.09.09-22.08.49:143][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16087MB of shared system memory, 0 output[s]
+[2023.09.09-22.08.49:144][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.09.09-22.08.49:144][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.09.09-22.08.49:144][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.09.09-22.08.49:144][  0]LogHAL: Display: Platform has ~ 32 GB [33737932800 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.09.09-22.08.49:144][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.09.09-22.08.49:144][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.09.09-22.08.49:144][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.09.09-22.08.49:145][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.09.09-22.08.49:145][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/Config/WindowsEditor/Editor.ini]
+[2023.09.09-22.08.49:145][  0]LogInit: Computer: LAPTOP-MF8IFS6O
+[2023.09.09-22.08.49:145][  0]LogInit: User: mactr
+[2023.09.09-22.08.49:145][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.09.09-22.08.49:145][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.09.09-22.08.49:145][  0]LogMemory: Memory total: Physical=31.4GB (32GB approx)
+[2023.09.09-22.08.49:145][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.09.09-22.08.49:145][  0]LogMemory: Process Physical Memory: 287.36 MB used, 302.63 MB peak
+[2023.09.09-22.08.49:145][  0]LogMemory: Process Virtual Memory: 258.80 MB used, 258.80 MB peak
+[2023.09.09-22.08.49:145][  0]LogMemory: Physical Memory: 9003.58 MB used,  23171.42 MB free, 32175.00 MB total
+[2023.09.09-22.08.49:145][  0]LogMemory: Virtual Memory: 12046.06 MB used,  22176.94 MB free, 34223.00 MB total
+[2023.09.09-22.08.49:145][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.09.09-22.08.49:150][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.09.09-22.08.49:163][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.09.09-22.08.49:164][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.09.09-22.08.49:164][  0]LogInit: Using OS detected locale (es-ES).
+[2023.09.09-22.08.49:296][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.09.09-22.08.49:296][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2023.09.09-22.08.49:296][  0]LogWindowsTextInputMethodSystem:   - Español (Argentina) - (Keyboard).
+[2023.09.09-22.08.49:296][  0]LogWindowsTextInputMethodSystem:   - Inglés (Estados Unidos) - (Keyboard).
+[2023.09.09-22.08.49:296][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2023.09.09-22.08.49:308][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.09.09-22.08.49:308][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.09.09-22.08.49:404][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.09.09-22.08.49:408][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.09.09-22.08.49:408][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.09.09-22.08.49:483][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.09.09-22.08.49:527][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.09.09-22.08.49:533][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.09.09-22.08.49:552][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.09.09-22.08.49:572][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.09.09-22.08.49:572][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.09.09-22.08.49:595][  0]LogD3D12RHI:     GPU DeviceId: 0x249d (for the marketing name, search the web for "GPU Device Id")
+[2023.09.09-22.08.49:595][  0]LogWindows: Attached monitors:
+[2023.09.09-22.08.49:595][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.09.09-22.08.49:595][  0]LogWindows:     resolution: 1280x800, work area: (-1280, 0) -> (0, 752), device: '\\.\DISPLAY2'
+[2023.09.09-22.08.49:595][  0]LogWindows: Found 2 attached monitors.
+[2023.09.09-22.08.49:595][  0]LogWindows: EnumDisplayDevices:
+[2023.09.09-22.08.49:595][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.09.09-22.08.49:596][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.09.09-22.08.49:596][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.09.09-22.08.49:596][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.09.09-22.08.49:596][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.09.09-22.08.49:596][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.09.09-22.08.49:596][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.09.09-22.08.49:596][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.09.09-22.08.49:596][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2023.09.09-22.08.49:596][  0]LogD3D12RHI:   Driver Version: 536.45 (internal:31.0.15.3645, unified:536.45)
+[2023.09.09-22.08.49:596][  0]LogD3D12RHI:      Driver Date: 6-26-2023
+[2023.09.09-22.08.49:596][  0]LogRHI: Texture pool is 4576 MB (70% of 6538 MB)
+[2023.09.09-22.08.49:596][  0]LogD3D12RHI: Async texture creation enabled
+[2023.09.09-22.08.49:596][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.09.09-22.08.49:606][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.09.09-22.08.49:612][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject"  -platform=all'
+[2023.09.09-22.08.49:612][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject"  -platform=all" ]
+[2023.09.09-22.08.49:634][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.09.09-22.08.49:640][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.09.09-22.08.49:640][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.09.09-22.08.49:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.09.09-22.08.49:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.09.09-22.08.49:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.09.09-22.08.49:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.09.09-22.08.49:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.09.09-22.08.49:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.09.09-22.08.49:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.09.09-22.08.49:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.09.09-22.08.49:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.09.09-22.08.49:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.09.09-22.08.49:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.09.09-22.08.49:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.09.09-22.08.49:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.09.09-22.08.49:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.09.09-22.08.49:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.09.09-22.08.49:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.09.09-22.08.49:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.09.09-22.08.49:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.09.09-22.08.49:681][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.09.09-22.08.49:688][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.09.09-22.08.49:690][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.09.09-22.08.49:690][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.09.09-22.08.49:690][  0]LogTargetPlatformManager:   ADPCM
+[2023.09.09-22.08.49:690][  0]LogTargetPlatformManager:   PCM
+[2023.09.09-22.08.49:692][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.09.09-22.08.49:693][  0]LogTargetPlatformManager:   BINKA
+[2023.09.09-22.08.49:693][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.09.09-22.08.49:693][  0]LogTargetPlatformManager:   OGG
+[2023.09.09-22.08.49:693][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.09.09-22.08.49:693][  0]LogTargetPlatformManager:   OPUS
+[2023.09.09-22.08.49:726][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.09.09-22.08.49:726][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   SF_METAL
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.09.09-22.08.49:732][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.09.09-22.08.49:735][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.09.09-22.08.49:735][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.09.09-22.08.49:735][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.09.09-22.08.49:735][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.09.09-22.08.49:735][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.09.09-22.08.49:735][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.09.09-22.08.49:735][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.09.09-22.08.49:735][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.09.09-22.08.49:735][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.09.09-22.08.49:740][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.09.09-22.08.49:740][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.09.09-22.08.49:745][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.09.09-22.08.49:747][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.09.09-22.08.49:747][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.09.09-22.08.49:747][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.09-22.08.49:747][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.09.09-22.08.49:765][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.09.09-22.08.49:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.09-22.08.49:765][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.09.09-22.08.49:771][  0]LogDerivedDataCache: Speed tests for C:/Users/mactr/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.09.09-22.08.49:772][  0]LogDerivedDataCache: Display: Performance to C:/Users/mactr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1411.61MBs, RandomWriteSpeed=169.47MBs. Assigned SpeedClass 'Local'
+[2023.09.09-22.08.49:772][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mactr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.09.09-22.08.49:772][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.09.09-22.08.49:772][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.09.09-22.08.49:779][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.09.09-22.08.49:779][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.09.09-22.08.49:779][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Intermediate/Shaders/WorkingDirectory/1792/).
+[2023.09.09-22.08.49:779][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mactr/AppData/Local/Temp/UnrealShaderWorkingDir/AE25726F4543F512D985AABD16A2A662/'.
+[2023.09.09-22.08.49:779][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.09.09-22.08.49:779][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.09.09-22.08.50:836][  0]LogSlate: Using FreeType 2.10.0
+[2023.09.09-22.08.50:837][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.09.09-22.08.50:873][  0]LogAssetRegistry: FAssetRegistry took 0.0114 seconds to start up
+[2023.09.09-22.08.50:878][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.09.09-22.08.51:114][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.09.09-22.08.51:115][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.09.09-22.08.51:417][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.09.09-22.08.51:417][  0]LogDeviceProfileManager: Active device profile: [00000489D0436900][00000489CA060000 50] WindowsEditor
+[2023.09.09-22.08.51:417][  0]LogDeviceProfileManager: Profiles: [00000489D04363C0][00000489C6FCA000 50] Windows, [00000489D0436900][00000489CA060000 50] WindowsEditor, [00000489D0434D00][00000489CA032800 50] WindowsServer, [00000489D0436200][00000489AE27C800 50] WindowsClient, [00000489D0432680][00000489D06B0000 50] IOS, [00000489D0432BC0][00000489D06B5000 50] iPadAir2, [00000489D0436E40][00000489D06BA000 50] IPadPro, [00000489D04371C0][00000489D06B7800 50] iPadAir3, [00000489D0434280][00000489D06BC800 50] iPadAir4, [00000489D0437380][00000489CA035000 50] iPadMini4, [00000489D0433F00][00000489D06C0000 50] iPadMini5, [00000489D0435E80][00000489D06C5000 50] iPadMini6, [00000489D043A100][00000489D06CC800 50] iPhone6S, [00000489D043A480][00000489D06CA000 50] iPhone7, [00000489D043A800][00000489D06C7800 50] iPodTouch7, [00000489D04340C0][00000489D06B2800 50] iPhone6SPlus, [00000489D0439840][00000489D06D0000 50] iPhone7Plus, [00000489D0437A80][00000489D06D5000 50] iPhoneSE, [00000489D0432840][00000489D06D7800 50] iPhone8, [00000489D0437E00][00000489D06DA000 50] iPhone8Plus, [00000489D0434600][00000489D06DC800 50] iPhoneX, [00000489D0436040][00000489D06C2800 50] iPhoneXS, [00000489D0438500][00000489D0700000 50] iPhoneXSMax, [00000489D0432F40][00000489D0705000 50] iPhoneXR, [00000489D0435400][00000489D0707800 50] iPhone11, [00000489D0438C00][00000489D070A000 50] iPhone11Pro, [00000489D0435B00][00000489D070C800 50] iPhone11ProMax, [00000489D04355C0][00000489D06D2800 50] iPhoneSE2, [00000489D0433B80][00000489D0710000 50] iPhone12Mini, [00000489D0431880][00000489D0715000 50] iPhone12, [00000489D0439A00][00000489D0717800 50] iPhone12Pro, [00000489D0434B40][00000489D071A000 50] iPhone12ProMax, [00000489D0438DC0][00000489D071C800 50] iPhone13Mini, [00000489D0435CC0][00000489D0702800 50] iPhone13, [00000489D0438340][00000489D0720000 50] iPhone13Pro, [00000489D0434980][00000489D0725000 50] iPhone13ProMax, [00000489D04394C0][00000489D0727800 50] iPadPro105, [00000489D0437540][00000489D072A000 50] iPadPro129, [00000489D04386C0][00000489D072C800 50] iPadPro97, [00000489D0435240][00000489D0712800 50] iPadPro2_129, [00000489D0431DC0][00000489D0730000 50] iPad5, [00000489D0431F80][00000489D0735000 50] iPad6, [00000489D0439D80][00000489D0737800 50] iPad7, [00000489D0438180][00000489D073A000 50] iPad8, [00000489D043AB80][00000489D073C800 50] iPad9, [00000489D0439F40][00000489D0722800 50] iPadPro11, [00000489D04339C0][00000489D0740000 50] iPadPro2_11, [00000489D0438A40][00000489D0745000 50] iPadPro3_11, [00000489D0432140][00000489D0747800 50] iPadPro3_129, [00000489D0432300][00000489D074A000 50] iPadPro4_129, [00000489D0437700][00000489D074C800 50] iPadPro5_129, [00000489D0433100][00000489D0732800 50] AppleTV, [00000489D0438880][00000489D0750000 50] AppleTV4K, [00000489D0437000][00000489D0755000 50] TVOS, [00000489D043BEC0][00000489D075A000 50] Mac, [00000489D043C240][00000489D0757800 50] MacEditor, [00000489D043B280][00000489D075C800 50] MacClient, [00000489D0439680][00000489D0742800 50] MacServer, [00000489D043C400][00000489D0762800 50] Linux, [00000489D043A2C0][00000489D0760000 50] LinuxEditor, [00000489D043AF00][00000489D0767800 50] LinuxArm64Editor, [00000489D0436AC0][00000489D076A000 50] LinuxArm64, [00000489D0432D80][00000489D076C800 50] LinuxClient, [00000489D0436740][00000489D0752800 50] LinuxArm64Client, [00000489D0439140][00000489D0770000 50] LinuxServer, [00000489D04324C0][00000489D0775000 50] LinuxArm64Server, [00000489D043A9C0][00000489D0777800 50] Android, [00000489D043BB40][00000489D077A000 50] Android_Preview_OpenGL, [00000489D043B440][00000489D077C800 50] Android_Preview_Vulkan, [00000489D0433800][00000489D0765000 50] Android_Low, [00000489D0436C80][00000489D0780000 50] Android_Mid, [00000489D0432A00][00000489D0785000 50] Android_High, [00000489D0433480][00000489D0787800 50] Android_Default, [00000489D0434440][00000489D078A000 50] Android_Adreno4xx, [00000489D043B980][00000489D078C800 50] Android_Adreno5xx_Low, [00000489D043A640][00000489D0772800 50] Android_Adreno5xx, [00000489D043B7C0][00000489D0790000 50] Android_Adreno6xx, [00000489D0434EC0][00000489D0795000 50] Android_Adreno6xx_Vulkan, [00000489D0433640][00000489D0797800 50] Android_Adreno7xx, [00000489D04378C0][00000489D079A000 50] Android_Adreno7xx_Vulkan, [00000489D043B0C0][00000489D079C800 50] Android_Mali_T6xx, [00000489D043B600][00000489D0782800 50] Android_Mali_T7xx, [00000489D04347C0][00000489D07A0000 50] Android_Mali_T8xx, [00000489D043CB00][00000489D07A5000 50] Android_Mali_G71, [00000489D0435940][00000489D07A7800 50] Android_Mali_G72, [00000489D0438F80][00000489D07AA000 50] Android_Mali_G72_Vulkan, [00000489D0437FC0][00000489D07AC800 50] Android_Mali_G76, [00000489D043D3C0][00000489D0792800 50] Android_Mali_G76_Vulkan, [00000489D043D580][00000489D07B0000 50] Android_Mali_G77, [00000489D043C5C0][00000489D07B5000 50] Android_Mali_G77_Vulkan, [00000489D0437C40][00000489D07B7800 50] Android_Mali_G78, [00000489D043DAC0][00000489D07BA000 50] Android_Mali_G78_Vulkan, [00000489D043CCC0][00000489D07BC800 50] Android_Mali_G710, [00000489D0435780][00000489D07A2800 50] Android_Mali_G710_Vulkan, [00000489D04332C0][00000489D07C0000 50] Android_Xclipse_920, [00000489D0433D40][00000489D07C5000 50] Android_Xclipse_920_Vulkan, [00000489D043E380][00000489D07C7800 50] Android_Vulkan_SM5, [00000489D043E540][00000489D07CA000 50] Android_PowerVR_G6xxx, [00000489D043DC80][00000489D07CC800 50] Android_PowerVR_GT7xxx, [00000489D043EA80][00000489D07B2800 50] Android_PowerVR_GE8xxx, [00000489D043E8C0][00000489D07D0000 50] Android_PowerVR_GM9xxx, [00000489D043D200][00000489D07D5000 50] Android_PowerVR_GM9xxx_Vulkan, [00000489D0435080][00000489D07D7800 50] Android_TegraK1, [00000489D043D740][00000489D07DA000 50] Android_Unknown_Vulkan, [00000489D043F340][00000489D07DC800 50] Oculus_Quest, [00000489D043F500][00000489D07C2800 50] Oculus_Quest2, [00000489D043C080][00000489D07E0000 50] HoloLens, 
+[2023.09.09-22.08.51:417][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.09.09-22.08.51:432][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.09.09-22.08.51:641][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.09.09-22.08.51:641][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.09.09-22.08.51:641][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.09.09-22.08.51:641][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.09.09-22.08.51:641][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.09.09-22.08.51:659][  0]LogNetVersion: ProgramaMot1 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1759894929)
+[2023.09.09-22.08.51:797][  0]LogSlate: Border
+[2023.09.09-22.08.51:797][  0]LogSlate: BreadcrumbButton
+[2023.09.09-22.08.51:797][  0]LogSlate: Default
+[2023.09.09-22.08.51:797][  0]LogSlate: Icons.Save
+[2023.09.09-22.08.51:797][  0]LogSlate: Icons.Toolbar.Settings
+[2023.09.09-22.08.51:797][  0]LogSlate: ListView
+[2023.09.09-22.08.51:797][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.09.09-22.08.51:797][  0]LogSlate: SoftwareCursor_Grab
+[2023.09.09-22.08.51:797][  0]LogSlate: TableView.DarkRow
+[2023.09.09-22.08.51:797][  0]LogSlate: TableView.Row
+[2023.09.09-22.08.51:797][  0]LogSlate: TreeView
+[2023.09.09-22.08.51:976][  0]SourceControl: Source control is disabled
+[2023.09.09-22.08.52:010][  0]SourceControl: Source control is disabled
+[2023.09.09-22.08.52:010][  0]SourceControl: Source control is disabled
+[2023.09.09-22.08.52:140][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.09.09-22.08.52:140][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.09.09-22.08.52:140][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.09.09-22.08.52:587][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2C7C1CC44B9918EFFBCB239F12C73AC1 | Instance: FD98BACB4418ADCCF2F5EBB0DCD7DDCA (LAPTOP-MF8IFS6O-1792).
+[2023.09.09-22.08.52:632][  0]LogPython: Using Python 3.9.7
+[2023.09.09-22.08.53:533][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.09.09-22.08.53:543][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.09-22.08.53:878][  0]SourceControl: Source control is disabled
+[2023.09.09-22.08.53:884][  0]SourceControl: Source control is disabled
+[2023.09.09-22.08.53:887][  0]SourceControl: Source control is disabled
+[2023.09.09-22.08.53:894][  0]LogUProjectInfo: Found projects:
+[2023.09.09-22.08.53:922][  0]LogOpenImageDenoise: OIDN starting up
+[2023.09.09-22.08.53:967][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.09-22.08.53:991][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.09-22.08.53:991][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.09-22.08.54:046][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2023.09.09-22.08.54:046][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 19.5.493/bin
+[2023.09.09-22.08.54:129][  0]LogCollectionManager: Loaded 0 collections in 0.001575 seconds
+[2023.09.09-22.08.54:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/Collections/' took 0.00s
+[2023.09.09-22.08.54:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Developers/mactr/Collections/' took 0.00s
+[2023.09.09-22.08.54:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Collections/' took 0.00s
+[2023.09.09-22.08.54:423][  0]LogEngine: Initializing Engine...
+[2023.09.09-22.08.54:435][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.09.09-22.08.54:437][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.09.09-22.08.54:638][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.09.09-22.08.54:639][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.09-22.08.54:649][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.08.54:674][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.09-22.08.54:675][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.09.09-22.08.54:696][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.09.09-22.08.54:697][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.09.09-22.08.54:697][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.09.09-22.08.54:697][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.09.09-22.08.54:697][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.09.09-22.08.54:697][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.09-22.08.54:698][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.09-22.08.54:698][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.09-22.08.54:698][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.09-22.08.54:698][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.09-22.08.54:698][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.09-22.08.54:698][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.09-22.08.54:698][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.09-22.08.54:698][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.09-22.08.54:698][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.09-22.08.54:698][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.09-22.08.54:703][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.09-22.08.54:855][  0]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Realtek(R) Audio)
+[2023.09.09-22.08.54:855][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.09-22.08.54:857][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.09-22.08.54:857][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.09-22.08.54:857][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.09.09-22.08.54:857][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.09-22.08.54:859][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.09-22.08.54:859][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.09.09-22.08.54:859][  0]LogInit: FAudioDevice initialized.
+[2023.09.09-22.08.54:859][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.09.09-22.08.54:859][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.09.09-22.08.54:859][  0]LogInit: Texture streaming: Enabled
+[2023.09.09-22.08.54:890][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.09.09-22.08.54:897][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.09.09-22.08.54:918][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.09.09-22.08.54:925][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.09.09-22.08.54:925][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.09.09-22.08.56:404][  0]LogLiveCoding: Display: First instance in process group "UE_ProgramaMot1_0xed1380a1", spawning console
+[2023.09.09-22.08.56:404][  0]LogLiveCoding: Display: Waiting for server
+[2023.09.09-22.08.56:404][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.09.09-22.08.56:428][  0]LogInit: Transaction tracking system initialized
+[2023.09.09-22.08.56:494][  0]BlueprintLog: New page: Editor Load
+[2023.09.09-22.08.56:666][  0]LocalizationService: Localization service is disabled
+[2023.09.09-22.08.56:710][  0]TimingProfiler: Initialize
+[2023.09.09-22.08.56:710][  0]TimingProfiler: OnSessionChanged
+[2023.09.09-22.08.56:710][  0]LoadingProfiler: Initialize
+[2023.09.09-22.08.56:710][  0]LoadingProfiler: OnSessionChanged
+[2023.09.09-22.08.56:710][  0]NetworkingProfiler: Initialize
+[2023.09.09-22.08.56:710][  0]NetworkingProfiler: OnSessionChanged
+[2023.09.09-22.08.56:710][  0]MemoryProfiler: Initialize
+[2023.09.09-22.08.56:710][  0]MemoryProfiler: OnSessionChanged
+[2023.09.09-22.08.57:180][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/' took 0.02s
+[2023.09.09-22.08.57:180][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.09.09-22.08.57:358][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2023.09.09-22.08.57:360][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2023.09.09-22.08.57:361][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2023.09.09-22.08.57:397][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.09.09-22.08.57:399][  0]SourceControl: Source control is disabled
+[2023.09.09-22.08.57:399][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.494
+[2023.09.09-22.08.57:400][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.09-22.08.57:400][  0]LightingResults: New page: Lighting Build
+[2023.09.09-22.08.57:406][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.08.57:406][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.08.57:406][  0]MapCheck: New page: Map Check
+[2023.09.09-22.08.57:406][  0]LightingResults: New page: Lighting Build
+[2023.09.09-22.08.57:410][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.09-22.08.57:414][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.09.09-22.08.57:793][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.09.09-22.08.57:801][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.08.57:802][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.09-22.08.57:802][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.09-22.08.57:802][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.09.09-22.08.57:860][  0]LogWorldPartition: Display: WorldPartition initialize took 58 ms
+[2023.09.09-22.08.57:864][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.09-22.08.57:870][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.09.09-22.08.57:871][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.09-22.08.57:871][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,262ms to complete.
+[2023.09.09-22.08.57:871][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.471
+[2023.09.09-22.08.57:883][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.979
+[2023.09.09-22.08.57:883][  0]LogShaderCompilers: Display: ================================================
+[2023.09.09-22.08.57:883][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.09-22.08.57:883][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.09.09-22.08.57:883][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.09.09-22.08.57:884][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.09.09-22.08.57:884][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.09-22.08.57:884][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.09-22.08.57:884][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.09-22.08.57:884][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.09-22.08.57:884][  0]LogShaderCompilers: Display: ================================================
+[2023.09.09-22.08.57:970][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.09.09-22.08.57:970][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.09.09-22.08.57:990][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.09-22.08.57:995][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.09-22.08.58:000][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.09-22.08.58:004][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.09-22.08.58:062][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:063][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:071][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:071][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:078][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:078][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:084][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:084][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:097][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:097][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:104][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:104][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:110][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:110][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:116][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:116][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:122][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:122][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:129][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.09.09-22.08.58:129][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.09-22.08.58:129][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.09.09-22.08.58:609][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.09-22.08.58:614][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.09-22.08.58:621][  0]LogSlate: Took 0.005785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.09-22.08.58:627][  0]LogSlate: Took 0.004818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.09.09-22.08.58:634][  0]LogSlate: Took 0.006641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.09-22.08.58:648][  0]LogViewport: Scene viewport resized to 1526x520, mode Windowed.
+[2023.09.09-22.08.58:694][  0]LogSlate: Took 0.005041 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.09-22.08.59:372][  0]LogStall: Startup...
+[2023.09.09-22.08.59:374][  0]LogStall: Startup complete.
+[2023.09.09-22.08.59:386][  0]LogLoad: (Engine Initialization) Total time: 11.48 seconds
+[2023.09.09-22.08.59:386][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.09-22.08.59:480][  0]LogAssetRegistry: Asset discovery search completed in 8.6096 seconds
+[2023.09.09-22.08.59:484][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.09.09-22.08.59:485][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.09.09-22.10.35:202][286]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.09.09-22.10.35:204][286]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Developers/mactr/Collections/' because it could not be accessed. Aborting watch request...
+[2023.09.09-22.10.35:204][286]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.09.09-22.10.53:997][343]LogDerivedDataCache: C:/Users/mactr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.156 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.09-22.11.56:955][531]AssetReimport: New page: Outstanding source content changes 16:11:56
+[2023.09.09-22.11.56:961][531]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.09-22.11.57:118][532]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Legs...
+[2023.09.09-22.11.57:118][532]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Legs.SK_Epic_Goblin_Legs
+[2023.09.09-22.11.57:118][532]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Legs.fbx]
+[2023.09.09-22.11.57:140][532]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Legs.fbx
+[2023.09.09-22.11.57:171][532]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.11.57:178][532]LogFbx: Valid bind pose for Pose (skinCluster19) - SK_Goblin_Legs
+[2023.09.09-22.11.57:183][532]LogFbx: Triangulating skeletal mesh SK_Goblin_Legs
+[2023.09.09-22.11.57:241][532]LogSkeletalMesh: Section 0: Material=0, 1270 triangles
+[2023.09.09-22.11.57:246][532]LogEditorFactories: -- imported successfully
+[2023.09.09-22.11.57:278][532]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Legs...
+[2023.09.09-22.11.57:278][532]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Legs.SK_Epic_Goblin_Legs
+[2023.09.09-22.11.57:468][533]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Torso...
+[2023.09.09-22.11.57:468][533]LogSkeletalMesh: Built Skeletal Mesh [0.13s] /Game/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Torso.SK_Epic_Goblin_Torso
+[2023.09.09-22.11.57:468][533]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Torso.fbx]
+[2023.09.09-22.11.57:481][533]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Torso.fbx
+[2023.09.09-22.11.57:520][533]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.11.57:527][533]LogFbx: Valid bind pose for Pose (skinCluster20) - SK_Goblin_Torso
+[2023.09.09-22.11.57:532][533]LogFbx: Triangulating skeletal mesh SK_Goblin_Torso
+[2023.09.09-22.11.57:779][533]LogSkeletalMesh: Section 0: Material=0, 3926 triangles
+[2023.09.09-22.11.57:788][533]LogEditorFactories: -- imported successfully
+[2023.09.09-22.11.57:915][533]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Torso...
+[2023.09.09-22.11.57:915][533]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Torso.SK_Epic_Goblin_Torso
+[2023.09.09-22.11.58:079][534]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Body_Armor...
+[2023.09.09-22.11.58:079][534]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.SK_Epic_Goblin_Body_Armor
+[2023.09.09-22.11.58:079][534]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.fbx]
+[2023.09.09-22.11.58:090][534]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.fbx
+[2023.09.09-22.11.58:129][534]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.11.58:148][534]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Body_armor
+[2023.09.09-22.11.58:156][534]LogFbx: Triangulating skeletal mesh Body_armor
+[2023.09.09-22.11.58:272][534]LogSkeletalMesh: Section 0: Material=0, 1602 triangles
+[2023.09.09-22.11.58:280][534]LogEditorFactories: -- imported successfully
+[2023.09.09-22.11.58:328][534]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Body_Armor...
+[2023.09.09-22.11.58:328][534]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.SK_Epic_Goblin_Body_Armor
+[2023.09.09-22.11.58:395][534]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.fbx]
+[2023.09.09-22.11.58:404][534]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.fbx
+[2023.09.09-22.11.58:441][534]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.11.58:452][534]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Body_armor
+[2023.09.09-22.11.58:457][534]LogFbx: Triangulating skeletal mesh Body_armor
+[2023.09.09-22.11.58:554][534]LogSkeletalMesh: Section 0: Material=0, 1602 triangles
+[2023.09.09-22.11.58:564][534]LogEditorFactories: -- imported successfully
+[2023.09.09-22.11.58:630][534]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Body_Armor_ice...
+[2023.09.09-22.11.58:630][534]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Body_Armor_ice.SK_Epic_Goblin_Body_Armor_ice
+[2023.09.09-22.11.58:747][535]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Bracers...
+[2023.09.09-22.11.58:747][535]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.SK_Epic_Goblin_Bracers
+[2023.09.09-22.11.58:747][535]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.fbx]
+[2023.09.09-22.11.58:756][535]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.fbx
+[2023.09.09-22.11.58:791][535]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.11.58:803][535]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - bracers
+[2023.09.09-22.11.58:808][535]LogFbx: Triangulating skeletal mesh bracers
+[2023.09.09-22.11.58:899][535]LogSkeletalMesh: Section 0: Material=0, 1340 triangles
+[2023.09.09-22.11.58:907][535]LogEditorFactories: -- imported successfully
+[2023.09.09-22.11.58:960][535]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Bracers...
+[2023.09.09-22.11.58:960][535]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.SK_Epic_Goblin_Bracers
+[2023.09.09-22.11.59:030][535]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.fbx]
+[2023.09.09-22.11.59:038][535]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.fbx
+[2023.09.09-22.11.59:070][535]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.11.59:081][535]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - bracers
+[2023.09.09-22.11.59:088][535]LogFbx: Triangulating skeletal mesh bracers
+[2023.09.09-22.11.59:182][535]LogSkeletalMesh: Section 0: Material=0, 1340 triangles
+[2023.09.09-22.11.59:190][535]LogEditorFactories: -- imported successfully
+[2023.09.09-22.11.59:263][535]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Bracers_ice...
+[2023.09.09-22.11.59:263][535]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Bracers_ice.SK_Epic_Goblin_Bracers_ice
+[2023.09.09-22.11.59:384][536]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Leg_Armor...
+[2023.09.09-22.11.59:385][536]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.SK_Epic_Goblin_Leg_Armor
+[2023.09.09-22.11.59:385][536]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.fbx]
+[2023.09.09-22.11.59:397][536]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.fbx
+[2023.09.09-22.11.59:438][536]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.11.59:448][536]LogFbx: Valid bind pose for Pose (skinCluster12) - Leg_Armor
+[2023.09.09-22.11.59:454][536]LogFbx: Triangulating skeletal mesh Leg_Armor
+[2023.09.09-22.11.59:558][536]LogSkeletalMesh: Section 0: Material=0, 1638 triangles
+[2023.09.09-22.11.59:566][536]LogEditorFactories: -- imported successfully
+[2023.09.09-22.11.59:615][536]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Leg_Armor...
+[2023.09.09-22.11.59:615][536]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.SK_Epic_Goblin_Leg_Armor
+[2023.09.09-22.11.59:685][536]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.fbx]
+[2023.09.09-22.11.59:695][536]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.fbx
+[2023.09.09-22.11.59:736][536]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.11.59:746][536]LogFbx: Valid bind pose for Pose (skinCluster12) - Leg_Armor
+[2023.09.09-22.11.59:752][536]LogFbx: Triangulating skeletal mesh Leg_Armor
+[2023.09.09-22.11.59:885][536]LogSkeletalMesh: Section 0: Material=0, 1638 triangles
+[2023.09.09-22.11.59:893][536]LogEditorFactories: -- imported successfully
+[2023.09.09-22.11.59:943][536]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Leg_Armor_ice...
+[2023.09.09-22.11.59:943][536]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Leg_Armor_ice.SK_Epic_Goblin_Leg_Armor_ice
+[2023.09.09-22.12.00:081][537]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Skirt...
+[2023.09.09-22.12.00:081][537]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.SK_Epic_Goblin_Skirt
+[2023.09.09-22.12.00:081][537]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.fbx]
+[2023.09.09-22.12.00:090][537]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.fbx
+[2023.09.09-22.12.00:140][537]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.00:155][537]LogFbx: Valid bind pose for Pose (skinCluster11) - skirt
+[2023.09.09-22.12.00:164][537]LogFbx: Triangulating skeletal mesh skirt
+[2023.09.09-22.12.00:295][537]LogSkeletalMesh: Section 0: Material=0, 2052 triangles
+[2023.09.09-22.12.00:304][537]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.00:325][537]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Skirt...
+[2023.09.09-22.12.00:396][537]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.SK_Epic_Goblin_Skirt
+[2023.09.09-22.12.00:491][537]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.fbx]
+[2023.09.09-22.12.00:501][537]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.fbx
+[2023.09.09-22.12.00:544][537]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.00:557][537]LogFbx: Valid bind pose for Pose (skinCluster11) - skirt
+[2023.09.09-22.12.00:565][537]LogFbx: Triangulating skeletal mesh skirt
+[2023.09.09-22.12.00:720][537]LogSkeletalMesh: Section 0: Material=0, 2052 triangles
+[2023.09.09-22.12.00:729][537]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.00:789][537]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Goblin_Skirt_ice...
+[2023.09.09-22.12.00:789][537]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Skirt_ice.SK_Epic_Goblin_Skirt_ice
+[2023.09.09-22.12.00:972][538]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Head_Helmet...
+[2023.09.09-22.12.00:972][538]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.SK_Epic_Head_Helmet
+[2023.09.09-22.12.00:973][538]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.fbx]
+[2023.09.09-22.12.00:986][538]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.fbx
+[2023.09.09-22.12.01:028][538]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.01:040][538]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Helmet
+[2023.09.09-22.12.01:044][538]LogFbx: Triangulating skeletal mesh Helmet
+[2023.09.09-22.12.01:117][538]LogSkeletalMesh: Section 0: Material=0, 1054 triangles
+[2023.09.09-22.12.01:124][538]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.01:157][538]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Head_Helmet...
+[2023.09.09-22.12.01:157][538]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.SK_Epic_Head_Helmet
+[2023.09.09-22.12.01:216][538]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.fbx]
+[2023.09.09-22.12.01:227][538]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.fbx
+[2023.09.09-22.12.01:261][538]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.01:271][538]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Helmet
+[2023.09.09-22.12.01:277][538]LogFbx: Triangulating skeletal mesh Helmet
+[2023.09.09-22.12.01:352][538]LogSkeletalMesh: Section 0: Material=0, 1054 triangles
+[2023.09.09-22.12.01:365][538]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.01:407][538]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Head_Helmet_ice...
+[2023.09.09-22.12.01:408][538]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Head_Helmet_ice.SK_Epic_Head_Helmet_ice
+[2023.09.09-22.12.01:532][539]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Arm_ice...
+[2023.09.09-22.12.01:532][539]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Arm_ice.SK_Epic_Arm_ice
+[2023.09.09-22.12.01:532][539]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Arm_ice.fbx]
+[2023.09.09-22.12.01:542][539]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Arm_ice.fbx
+[2023.09.09-22.12.01:575][539]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.01:587][539]LogFbx: Valid bind pose for Pose (skinCluster23) - SK_Arm_ice
+[2023.09.09-22.12.01:592][539]LogFbx: Triangulating skeletal mesh SK_Arm_ice
+[2023.09.09-22.12.01:695][539]LogSkeletalMesh: Section 0: Material=0, 1438 triangles
+[2023.09.09-22.12.01:703][539]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.01:745][539]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Arm_ice...
+[2023.09.09-22.12.01:745][539]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Arm_ice.SK_Epic_Arm_ice
+[2023.09.09-22.12.01:850][540]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Body_ice...
+[2023.09.09-22.12.01:850][540]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Body_ice.SK_Epic_Body_ice
+[2023.09.09-22.12.01:850][540]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Body_ice.fbx]
+[2023.09.09-22.12.01:862][540]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Body_ice.fbx
+[2023.09.09-22.12.01:900][540]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.01:912][540]LogFbx: Valid bind pose for Pose (skinCluster24) - SK_Body_ice
+[2023.09.09-22.12.01:918][540]LogFbx: Triangulating skeletal mesh SK_Body_ice
+[2023.09.09-22.12.01:983][540]LogSkeletalMesh: Section 0: Material=0, 677 triangles
+[2023.09.09-22.12.01:991][540]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.02:016][540]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Body_ice...
+[2023.09.09-22.12.02:016][540]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Body_ice.SK_Epic_Body_ice
+[2023.09.09-22.12.02:129][541]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Bottom_Leg_ice...
+[2023.09.09-22.12.02:129][541]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Bottom_Leg_ice.SK_Epic_Bottom_Leg_ice
+[2023.09.09-22.12.02:129][541]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Bottom_Leg_ice.fbx]
+[2023.09.09-22.12.02:139][541]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Bottom_Leg_ice.fbx
+[2023.09.09-22.12.02:183][541]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.02:195][541]LogFbx: Valid bind pose for Pose (skinCluster26) - SK_Bottom_Leg_ice
+[2023.09.09-22.12.02:201][541]LogFbx: Triangulating skeletal mesh SK_Bottom_Leg_ice
+[2023.09.09-22.12.02:267][541]LogSkeletalMesh: Section 0: Material=0, 798 triangles
+[2023.09.09-22.12.02:275][541]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.02:304][541]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Bottom_Leg_ice...
+[2023.09.09-22.12.02:304][541]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Bottom_Leg_ice.SK_Epic_Bottom_Leg_ice
+[2023.09.09-22.12.02:414][542]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Head_ice...
+[2023.09.09-22.12.02:414][542]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Head_ice.SK_Epic_Head_ice
+[2023.09.09-22.12.02:414][542]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Head_ice.fbx]
+[2023.09.09-22.12.02:426][542]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Head_ice.fbx
+[2023.09.09-22.12.02:471][542]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.02:486][542]LogFbx: Valid bind pose for Pose (skinCluster21) - SK_Head_ice
+[2023.09.09-22.12.02:492][542]LogFbx: Triangulating skeletal mesh SK_Head_ice
+[2023.09.09-22.12.02:542][542]LogSkeletalMesh: Section 0: Material=0, 671 triangles
+[2023.09.09-22.12.02:554][542]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.02:575][542]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Head_ice...
+[2023.09.09-22.12.02:575][542]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Head_ice.SK_Epic_Head_ice
+[2023.09.09-22.12.02:658][543]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Shoulder_ice...
+[2023.09.09-22.12.02:659][543]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Shoulder_ice.SK_Epic_Shoulder_ice
+[2023.09.09-22.12.02:659][543]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Shoulder_ice.fbx]
+[2023.09.09-22.12.02:666][543]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Shoulder_ice.fbx
+[2023.09.09-22.12.02:701][543]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.02:714][543]LogFbx: Valid bind pose for Pose (skinCluster22) - SK_Shoulder_ice
+[2023.09.09-22.12.02:719][543]LogFbx: Triangulating skeletal mesh SK_Shoulder_ice
+[2023.09.09-22.12.02:736][543]LogSkeletalMesh: Section 0: Material=0, 164 triangles
+[2023.09.09-22.12.02:747][543]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.02:762][543]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Shoulder_ice...
+[2023.09.09-22.12.02:762][543]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Shoulder_ice.SK_Epic_Shoulder_ice
+[2023.09.09-22.12.02:778][544]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_ice/T_Shoulder_ice_N.T_Shoulder_ice_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.12.02:885][544]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Top_Leg_ice...
+[2023.09.09-22.12.02:885][544]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Top_Leg_ice.SK_Epic_Top_Leg_ice
+[2023.09.09-22.12.02:885][544]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Top_Leg_ice.fbx]
+[2023.09.09-22.12.03:035][544]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Top_Leg_ice.fbx
+[2023.09.09-22.12.03:070][544]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.03:079][544]LogFbx: Valid bind pose for Pose (skinCluster25) - SK_Top_Leg_ice
+[2023.09.09-22.12.03:086][544]LogFbx: Triangulating skeletal mesh SK_Top_Leg_ice
+[2023.09.09-22.12.03:135][544]LogSkeletalMesh: Section 0: Material=0, 910 triangles
+[2023.09.09-22.12.03:145][544]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.03:172][544]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Top_Leg_ice...
+[2023.09.09-22.12.03:172][544]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Top_Leg_ice.SK_Epic_Top_Leg_ice
+[2023.09.09-22.12.03:302][545]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Body_Belt...
+[2023.09.09-22.12.03:302][545]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Body_Belt.SK_Epic_Body_Belt
+[2023.09.09-22.12.03:302][545]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Body_Belt.fbx]
+[2023.09.09-22.12.03:315][545]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Body_Belt.fbx
+[2023.09.09-22.12.03:342][545]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.03:350][545]LogFbx: Valid bind pose for Pose (skinCluster6) - SK_Body_belt
+[2023.09.09-22.12.03:354][545]LogFbx: Triangulating skeletal mesh SK_Body_belt
+[2023.09.09-22.12.03:379][545]LogSkeletalMesh: Section 0: Material=0, 388 triangles
+[2023.09.09-22.12.03:385][545]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.03:397][545]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Body_Belt...
+[2023.09.09-22.12.03:397][545]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Body_Belt.SK_Epic_Body_Belt
+[2023.09.09-22.12.03:432][546]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Fabric_Bracers...
+[2023.09.09-22.12.03:432][546]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Bracers.SK_Epic_Fabric_Bracers
+[2023.09.09-22.12.03:432][546]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Bracers.fbx]
+[2023.09.09-22.12.03:442][546]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Bracers.fbx
+[2023.09.09-22.12.03:471][546]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.03:479][546]LogFbx: Valid bind pose for Pose (skinCluster5) - SK_fabric_Bracers
+[2023.09.09-22.12.03:503][546]LogSkeletalMesh: Section 0: Material=0, 662 triangles
+[2023.09.09-22.12.03:512][546]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.03:530][546]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Fabric_Bracers...
+[2023.09.09-22.12.03:530][546]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Bracers.SK_Epic_Fabric_Bracers
+[2023.09.09-22.12.03:591][547]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Fabric_Leg...
+[2023.09.09-22.12.03:591][547]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Leg.SK_Epic_Fabric_Leg
+[2023.09.09-22.12.03:591][547]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Leg.fbx]
+[2023.09.09-22.12.03:605][547]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Leg.fbx
+[2023.09.09-22.12.03:633][547]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.03:640][547]LogFbx: Valid bind pose for Pose (skinCluster3) - SK_Fabric_Leg
+[2023.09.09-22.12.03:690][547]LogSkeletalMesh: Section 0: Material=0, 1462 triangles
+[2023.09.09-22.12.03:697][547]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.03:753][547]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Fabric_Leg...
+[2023.09.09-22.12.03:753][547]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Leg.SK_Epic_Fabric_Leg
+[2023.09.09-22.12.03:839][548]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Fabric_Skirt...
+[2023.09.09-22.12.03:839][548]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Skirt.SK_Epic_Fabric_Skirt
+[2023.09.09-22.12.03:839][548]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Skirt.fbx]
+[2023.09.09-22.12.03:858][548]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Skirt.fbx
+[2023.09.09-22.12.03:913][548]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.03:928][548]LogFbx: Valid bind pose for Pose (skinCluster7) - SK_Skirt
+[2023.09.09-22.12.03:935][548]LogFbx: Triangulating skeletal mesh SK_Skirt
+[2023.09.09-22.12.04:044][548]LogSkeletalMesh: Section 0: Material=0, 1066 triangles
+[2023.09.09-22.12.04:054][548]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.04:089][548]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Fabric_Skirt...
+[2023.09.09-22.12.04:089][548]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Skirt.SK_Epic_Fabric_Skirt
+[2023.09.09-22.12.04:134][549]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Head_Hat...
+[2023.09.09-22.12.04:134][549]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Head_Hat.SK_Epic_Head_Hat
+[2023.09.09-22.12.04:134][549]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Head_Hat.fbx]
+[2023.09.09-22.12.04:142][549]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Head_Hat.fbx
+[2023.09.09-22.12.04:175][549]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.04:184][549]LogFbx: Valid bind pose for Pose (skinCluster2) - SK_Hat
+[2023.09.09-22.12.04:187][549]LogFbx: Triangulating skeletal mesh SK_Hat
+[2023.09.09-22.12.04:245][549]LogSkeletalMesh: Section 0: Material=0, 944 triangles
+[2023.09.09-22.12.04:255][549]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.04:288][549]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Head_Hat...
+[2023.09.09-22.12.04:288][549]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Head_Hat.SK_Epic_Head_Hat
+[2023.09.09-22.12.04:393][550]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Bottle...
+[2023.09.09-22.12.04:393][550]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bottle.SK_Epic_Wizard_Bottle
+[2023.09.09-22.12.04:393][550]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bottle.fbx]
+[2023.09.09-22.12.04:402][550]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bottle.fbx
+[2023.09.09-22.12.04:434][550]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.04:442][550]LogFbx: Valid bind pose for Pose (skinCluster18) - Wizard_Bottle_acces
+[2023.09.09-22.12.04:466][550]LogSkeletalMesh: Section 0: Material=0, 676 triangles
+[2023.09.09-22.12.04:474][550]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.04:496][550]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Bottle...
+[2023.09.09-22.12.04:496][550]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bottle.SK_Epic_Wizard_Bottle
+[2023.09.09-22.12.04:615][551]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Bracers...
+[2023.09.09-22.12.04:615][551]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bracers.SK_Epic_Wizard_Bracers
+[2023.09.09-22.12.04:615][551]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bracers.fbx]
+[2023.09.09-22.12.04:624][551]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bracers.fbx
+[2023.09.09-22.12.04:659][551]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.04:669][551]LogFbx: Valid bind pose for Pose (skinCluster16) - Bracers
+[2023.09.09-22.12.04:673][551]LogFbx: Triangulating skeletal mesh Bracers
+[2023.09.09-22.12.04:748][551]LogSkeletalMesh: Section 0: Material=0, 1190 triangles
+[2023.09.09-22.12.04:756][551]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.04:790][551]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Bracers...
+[2023.09.09-22.12.04:790][551]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bracers.SK_Epic_Wizard_Bracers
+[2023.09.09-22.12.04:944][552]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Cloak...
+[2023.09.09-22.12.04:944][552]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Cloak.SK_Epic_Wizard_Cloak
+[2023.09.09-22.12.04:944][552]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Cloak.fbx]
+[2023.09.09-22.12.04:953][552]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Cloak.fbx
+[2023.09.09-22.12.04:997][552]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.05:007][552]LogFbx: Valid bind pose for Pose (skinCluster14) - Cloak
+[2023.09.09-22.12.05:012][552]LogFbx: Triangulating skeletal mesh Cloak
+[2023.09.09-22.12.05:088][552]LogSkeletalMesh: Section 0: Material=0, 1242 triangles
+[2023.09.09-22.12.05:098][552]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.05:136][552]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Cloak...
+[2023.09.09-22.12.05:136][552]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Cloak.SK_Epic_Wizard_Cloak
+[2023.09.09-22.12.05:261][553]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Hat...
+[2023.09.09-22.12.05:261][553]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Hat.SK_Epic_Wizard_Hat
+[2023.09.09-22.12.05:261][553]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Hat.fbx]
+[2023.09.09-22.12.05:272][553]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Hat.fbx
+[2023.09.09-22.12.05:323][553]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.05:332][553]LogFbx: Valid bind pose for Pose (skinCluster13) - Hat
+[2023.09.09-22.12.05:337][553]LogFbx: Triangulating skeletal mesh Hat
+[2023.09.09-22.12.05:407][553]LogSkeletalMesh: Section 0: Material=0, 1070 triangles
+[2023.09.09-22.12.05:415][553]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.05:457][553]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Hat...
+[2023.09.09-22.12.05:458][553]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Hat.SK_Epic_Wizard_Hat
+[2023.09.09-22.12.05:614][554]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Pants...
+[2023.09.09-22.12.05:614][554]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Pants.SK_Epic_Wizard_Pants
+[2023.09.09-22.12.05:614][554]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Pants.fbx]
+[2023.09.09-22.12.05:632][554]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Pants.fbx
+[2023.09.09-22.12.05:677][554]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.05:686][554]LogFbx: Valid bind pose for Pose (skinCluster15) - Pants
+[2023.09.09-22.12.05:691][554]LogFbx: Triangulating skeletal mesh Pants
+[2023.09.09-22.12.05:804][554]LogSkeletalMesh: Section 0: Material=0, 2042 triangles
+[2023.09.09-22.12.05:813][554]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.05:858][554]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Pants...
+[2023.09.09-22.12.05:858][554]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Pants.SK_Epic_Wizard_Pants
+[2023.09.09-22.12.05:978][555]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Scroll...
+[2023.09.09-22.12.05:978][555]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Scroll.SK_Epic_Wizard_Scroll
+[2023.09.09-22.12.05:978][555]LogEditorFactories: Performing atomic reimport of [C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Scroll.fbx]
+[2023.09.09-22.12.05:993][555]LogFbx: Loading FBX Scene from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Scroll.fbx
+[2023.09.09-22.12.06:039][555]LogFbx: FBX Scene Loaded Succesfully
+[2023.09.09-22.12.06:050][555]LogFbx: Valid bind pose for Pose (skinCluster17) - Wizard_scroll_acces
+[2023.09.09-22.12.06:054][555]LogFbx: Triangulating skeletal mesh Wizard_scroll_acces
+[2023.09.09-22.12.06:130][555]LogSkeletalMesh: Section 0: Material=0, 1230 triangles
+[2023.09.09-22.12.06:142][555]LogEditorFactories: -- imported successfully
+[2023.09.09-22.12.06:178][555]LogSkeletalMesh: Building Skeletal Mesh SK_Epic_Wizard_Scroll...
+[2023.09.09-22.12.06:178][555]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Scroll.SK_Epic_Wizard_Scroll
+[2023.09.09-22.12.06:427][556]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.007661 seconds
+[2023.09.09-22.12.06:446][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Legs
+[2023.09.09-22.12.06:448][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_Legs9F23AF3742E81B9FDDD4E28DC3566A96.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Legs.uasset'
+[2023.09.09-22.12.06:528][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Torso
+[2023.09.09-22.12.06:529][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_Torso7ECE2AFE4D4F4987CA5B90809F09E225.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Torso.uasset'
+[2023.09.09-22.12.06:595][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor
+[2023.09.09-22.12.06:596][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_Body_ArmorA641696044641E19E77DDBB90898089C.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.uasset'
+[2023.09.09-22.12.06:652][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Body_Armor_ice
+[2023.09.09-22.12.06:654][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_Body_Armor_ice9B790DD740A3A6EFFD84039F9EAA1F38.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Body_Armor_ice.uasset'
+[2023.09.09-22.12.06:715][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers
+[2023.09.09-22.12.06:717][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_Bracers4E7E2D5D4D540B02C488FBB21C02DB5E.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.uasset'
+[2023.09.09-22.12.06:775][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Bracers_ice
+[2023.09.09-22.12.06:776][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_Bracers_ice9060EE184EC76B41F8E09EBFA1C053E7.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Bracers_ice.uasset'
+[2023.09.09-22.12.06:838][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor
+[2023.09.09-22.12.06:840][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_Leg_ArmorE969047543E6C75DBBB45C865986DD4E.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.uasset'
+[2023.09.09-22.12.06:900][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Leg_Armor_ice
+[2023.09.09-22.12.06:902][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_Leg_Armor_ice281FA3354C2440B8A07098ADB00CD336.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Leg_Armor_ice.uasset'
+[2023.09.09-22.12.06:971][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt
+[2023.09.09-22.12.06:972][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_SkirtC46869E747ADBC075D674881FBA8241F.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.uasset'
+[2023.09.09-22.12.07:040][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Skirt_ice
+[2023.09.09-22.12.07:041][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Goblin_Skirt_ice8472AA5A4E0183629C0229B32D6F23B7.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Skirt_ice.uasset'
+[2023.09.09-22.12.07:103][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet
+[2023.09.09-22.12.07:104][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Head_HelmetC8FD48AD439B4BDA3FD73CBA0616E6FC.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.uasset'
+[2023.09.09-22.12.07:173][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Head_Helmet_ice
+[2023.09.09-22.12.07:174][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Head_Helmet_ice8FCEF0DE4EFE33262573EFA8CA56ED64.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Head_Helmet_ice.uasset'
+[2023.09.09-22.12.07:230][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Arm_ice
+[2023.09.09-22.12.07:231][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Arm_ice6B3559DF445271FFC83AFFA86AA1B91D.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Arm_ice.uasset'
+[2023.09.09-22.12.07:286][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Body_ice
+[2023.09.09-22.12.07:288][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Body_ice4926298B4900305EECAB969B985D9C26.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Body_ice.uasset'
+[2023.09.09-22.12.07:351][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Bottom_Leg_ice
+[2023.09.09-22.12.07:353][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Bottom_Leg_iceD9D9ED97407213A2E14F8697470A9724.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Bottom_Leg_ice.uasset'
+[2023.09.09-22.12.07:405][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Head_ice
+[2023.09.09-22.12.07:407][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Head_iceA9577E6E4CC35DC1198BC5A107C00D7D.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Head_ice.uasset'
+[2023.09.09-22.12.07:462][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Shoulder_ice
+[2023.09.09-22.12.07:463][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Shoulder_iceDB46F5FD4107C95A97F56C9F4BE81692.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Shoulder_ice.uasset'
+[2023.09.09-22.12.07:527][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Top_Leg_ice
+[2023.09.09-22.12.07:528][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Top_Leg_ice740FE3E04268A4102B2489B88090F398.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Top_Leg_ice.uasset'
+[2023.09.09-22.12.07:587][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Body_Belt
+[2023.09.09-22.12.07:588][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Body_BeltCE0DA6944C0E50822AFE33B07DDC09F6.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Body_Belt.uasset'
+[2023.09.09-22.12.07:646][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Bracers
+[2023.09.09-22.12.07:647][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Fabric_Bracers6DA1A90647679E1C3AB27BBF3BC69DCB.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Bracers.uasset'
+[2023.09.09-22.12.07:707][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Leg
+[2023.09.09-22.12.07:707][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Fabric_Leg48CFA0AA432659AD4C045B83757FF397.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Leg.uasset'
+[2023.09.09-22.12.07:763][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Skirt
+[2023.09.09-22.12.07:764][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Fabric_Skirt5FA37C8147AF7C57F81C8EA77E7854FB.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Skirt.uasset'
+[2023.09.09-22.12.07:823][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Head_Hat
+[2023.09.09-22.12.07:824][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Head_Hat8F1ACACE43FE9D00DB29ADBF0A7F5968.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Head_Hat.uasset'
+[2023.09.09-22.12.07:879][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bottle
+[2023.09.09-22.12.07:881][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Wizard_BottleEF26C1064C77A48015F2B993690D86F3.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bottle.uasset'
+[2023.09.09-22.12.07:944][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bracers
+[2023.09.09-22.12.07:945][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Wizard_BracersA2CF7AC245D02A66060AA8B8425366A5.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bracers.uasset'
+[2023.09.09-22.12.08:018][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Cloak
+[2023.09.09-22.12.08:019][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Wizard_Cloak76D7B3A246ED8ABC8FB594A50864B46C.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Cloak.uasset'
+[2023.09.09-22.12.08:070][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Hat
+[2023.09.09-22.12.08:071][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Wizard_HatBFC14ACF49B9DF0CD0130BB13FB2AD1C.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Hat.uasset'
+[2023.09.09-22.12.08:124][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Pants
+[2023.09.09-22.12.08:125][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Wizard_PantsB033125244B6AB939307159CAC16B0AB.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Pants.uasset'
+[2023.09.09-22.12.08:185][556]LogSavePackage: Moving output files for package: /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Scroll
+[2023.09.09-22.12.08:186][556]LogSavePackage: Moving '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/SK_Epic_Wizard_ScrollC0E8D32F410401A1909DF6851210107E.tmp' to '../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Scroll.uasset'
+[2023.09.09-22.12.08:222][557]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Torso.SK_Epic_Goblin_Torso
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Legs.SK_Epic_Goblin_Legs
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.SK_Epic_Goblin_Body_Armor
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Body_Armor_ice.SK_Epic_Goblin_Body_Armor_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.SK_Epic_Goblin_Bracers
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Bracers_ice.SK_Epic_Goblin_Bracers_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.SK_Epic_Goblin_Leg_Armor
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Leg_Armor_ice.SK_Epic_Goblin_Leg_Armor_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.SK_Epic_Goblin_Skirt
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Goblin_Skirt_ice.SK_Epic_Goblin_Skirt_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.SK_Epic_Head_Helmet
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Armor_ice/SK_Epic_Head_Helmet_ice.SK_Epic_Head_Helmet_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Arm_ice.SK_Epic_Arm_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Body_ice.SK_Epic_Body_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Bottom_Leg_ice.SK_Epic_Bottom_Leg_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Head_ice.SK_Epic_Head_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Shoulder_ice.SK_Epic_Shoulder_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Top_Leg_ice.SK_Epic_Top_Leg_ice
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Body_Belt.SK_Epic_Body_Belt
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Bracers.SK_Epic_Fabric_Bracers
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Leg.SK_Epic_Fabric_Leg
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Skirt.SK_Epic_Fabric_Skirt
+[2023.09.09-22.12.08:222][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Head_Hat.SK_Epic_Head_Hat
+[2023.09.09-22.12.08:224][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bottle.SK_Epic_Wizard_Bottle
+[2023.09.09-22.12.08:224][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bracers.SK_Epic_Wizard_Bracers
+[2023.09.09-22.12.08:224][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Cloak.SK_Epic_Wizard_Cloak
+[2023.09.09-22.12.08:224][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Hat.SK_Epic_Wizard_Hat
+[2023.09.09-22.12.08:224][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Pants.SK_Epic_Wizard_Pants
+[2023.09.09-22.12.08:224][557]LogContentValidation: Display: Validating SkeletalMesh /Game/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Scroll.SK_Epic_Wizard_Scroll
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Legs from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Legs.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Torso from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/SK_Epic_Goblin_Torso.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Body_Armor from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Body_Armor_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Body_Armor.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Bracers from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Bracers_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Bracers.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Leg_Armor from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Leg_Armor_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Leg_Armor.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Skirt from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Goblin_Skirt_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Goblin_Skirt.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Head_Helmet from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Head_Helmet_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Armor/SK_Epic_Head_Helmet.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Arm_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Arm_ice.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Body_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Body_ice.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Bottom_Leg_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Bottom_Leg_ice.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Head_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Head_ice.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Shoulder_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Shoulder_ice.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Top_Leg_ice from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/ice/SK_Epic_Top_Leg_ice.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Body_Belt from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Body_Belt.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Fabric_Bracers from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Bracers.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Fabric_Leg from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Leg.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Fabric_Skirt from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Fabric_Skirt.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Head_Hat from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Light_Armor/SK_Epic_Head_Hat.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Wizard_Bottle from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bottle.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Wizard_Bracers from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Bracers.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Wizard_Cloak from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Cloak.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Wizard_Hat from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Hat.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Wizard_Pants from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Pants.fbx.
+[2023.09.09-22.12.11:219][656]AssetReimport: Reimported asset SK_Epic_Wizard_Scroll from C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Mesh/Epic_skeleton/Wizard/SK_Epic_Wizard_Scroll.fbx.
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: ================================================
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: Total job queries 800, among them cache hits 0 (0.00%)
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: Tracking 661 distinct input hashes that result in 27 distinct outputs (4.08%)
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: Shaders Compiled: 800
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: Jobs assigned 740, completed 661 (89.32%)
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: Time job spent in pending queue: average 77.22 s, longest 183.67 s
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: Job execution time: average 20.19 s, max 34.37 s
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: Job life time (pending + execution): average 85.77 s, max 183.78
+[2023.09.09-22.15.02:397][446]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 185.30 s
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display: Jobs were issued in 118 batches (only local compilation was used), average 6.27 jobs/batch
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display: Average processing rate: 3.57 jobs/sec
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display: Effective parallelization: 7.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   42 times, average 2.76 sec, max 7.35 sec, min 1.21 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   42 times, average 2.62 sec, max 7.93 sec, min 1.20 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   41 times, average 2.47 sec, max 5.98 sec, min 1.27 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   40 times, average 2.38 sec, max 7.94 sec, min 1.12 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy (compiled   42 times, average 2.33 sec, max 6.17 sec, min 1.10 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.24% of total time (compiled   42 times, average 2.76 sec, max 7.35 sec, min 1.21 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.84% of total time (compiled   42 times, average 2.62 sec, max 7.93 sec, min 1.20 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.20% of total time (compiled   41 times, average 2.47 sec, max 5.98 sec, min 1.27 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy - 6.98% of total time (compiled   42 times, average 2.33 sec, max 6.17 sec, min 1.10 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.78% of total time (compiled   40 times, average 2.38 sec, max 7.94 sec, min 1.12 sec)
+[2023.09.09-22.15.02:398][446]LogShaderCompilers: Display: ================================================
+[2023.09.09-22.42.08:947][365]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Goblin/Animation/Sequencer/Turntable.Turntable
+[2023.09.09-22.42.09:006][365]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.09-22.42.09:006][365]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.09.09-22.42.26:736][414]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Goblin/Animation/Anim_Goblin_body_idle.Anim_Goblin_body_idle
+[2023.09.09-22.42.26:767][414]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Goblin/Animation/Anim_Goblin_body_idle.Anim_Goblin_body_idle
+[2023.09.09-22.42.26:767][414]LogSkeletalMesh: Building Skeletal Mesh SK_Goblin...
+[2023.09.09-22.42.26:767][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.42.26:836][414]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Goblin/Mesh/Goblin_Base/SK_Goblin.SK_Goblin
+[2023.09.09-22.42.26:836][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.09-22.42.27:076][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.42.27:208][414]LogViewport: Scene viewport resized to 988x478, mode Windowed.
+[2023.09.09-22.42.27:229][414]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.09-22.42.31:491][645]LogSlate: Window 'Anim_Goblin_body_idle' being destroyed
+[2023.09.09-22.42.31:496][645]LogSlate: Window 'Anim_Goblin_body_idle' being destroyed
+[2023.09.09-22.42.31:496][645]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.42.31:496][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.42.31:553][645]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.42.31:553][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.42.33:438][757]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Goblin/Animation/Anim_Goblin_body_rage.Anim_Goblin_body_rage
+[2023.09.09-22.42.33:438][757]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Goblin/Animation/Anim_Goblin_body_rage.Anim_Goblin_body_rage
+[2023.09.09-22.42.33:439][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.42.33:447][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.09-22.42.33:616][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.42.33:696][757]LogViewport: Scene viewport resized to 988x478, mode Windowed.
+[2023.09.09-22.42.33:725][757]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.09-22.42.35:538][858]LogSlate: Window 'Anim_Goblin_body_rage' being destroyed
+[2023.09.09-22.42.35:542][858]LogSlate: Window 'Anim_Goblin_body_rage' being destroyed
+[2023.09.09-22.42.35:543][858]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.42.35:543][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.42.35:590][858]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.42.35:590][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.42.36:917][931]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Goblin/Animation/Anim_Goblin_body_attack.Anim_Goblin_body_attack
+[2023.09.09-22.42.36:917][931]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Goblin/Animation/Anim_Goblin_body_attack.Anim_Goblin_body_attack
+[2023.09.09-22.42.36:917][931]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Goblin/Animation/Anim_Goblin_body_attack.Anim_Goblin_body_attack
+[2023.09.09-22.42.36:918][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.42.36:926][931]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.09-22.42.37:092][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.42.37:172][931]LogViewport: Scene viewport resized to 988x478, mode Windowed.
+[2023.09.09-22.42.37:196][931]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.09-22.42.39:819][ 75]LogSlate: Window 'Anim_Goblin_body_attack' being destroyed
+[2023.09.09-22.42.39:822][ 75]LogSlate: Window 'Anim_Goblin_body_attack' being destroyed
+[2023.09.09-22.42.39:823][ 75]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.42.39:823][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.42.39:873][ 75]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.42.39:873][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.55:269][976]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b : Invalid USkeleton supplied
+[2023.09.09-22.42.55:269][976]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_b.Anim_Goblin_Shield_die_b
+[2023.09.09-22.42.57:564][976]LogSlate: Window 'Message' being destroyed
+[2023.09.09-22.42.57:575][976]Message dialog closed, result: No, title: Message, text: Could not find the skeleton for Anim 'Anim_Goblin_Shield_die_b' Would you like to choose a new one?
+[2023.09.09-22.42.58:488][ 29]LogLinker: Warning: [AssetLog] C:\Users\mactr\OneDrive\Desktop\progmotores1\PrgoMot1\ProgramaMot1\Content\Goblin\Animation\Shield\Anim_Goblin_Shield_die_a.uasset: Failed to load '/Game/Goblin/Mesh/Goblin_armor/SK_Goblin_Shield_Skeleton': Can't find file.
+[2023.09.09-22.42.58:488][ 29]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Goblin/Mesh/Goblin_armor/SK_Goblin_Shield_Skeleton'
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Unable to retrieve Skeleton for outer Animation Sequence
+[2023.09.09-22.42.58:489][ 29]LogScript: Error: Script Msg: /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a : Invalid USkeleton supplied
+[2023.09.09-22.42.58:489][ 29]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Goblin/Animation/Shield/Anim_Goblin_Shield_die_a.Anim_Goblin_Shield_die_a
+[2023.09.09-22.43.00:108][ 29]LogSlate: Window 'Message' being destroyed
+[2023.09.09-22.43.00:117][ 29]Message dialog closed, result: No, title: Message, text: Could not find the skeleton for Anim 'Anim_Goblin_Shield_die_a' Would you like to choose a new one?
+[2023.09.09-22.43.02:392][162]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Goblin/Animation/Anim_Goblin_weapon_attack.Anim_Goblin_weapon_attack
+[2023.09.09-22.43.02:392][162]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Goblin/Animation/Anim_Goblin_weapon_attack.Anim_Goblin_weapon_attack
+[2023.09.09-22.43.02:392][162]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Goblin/Animation/Anim_Goblin_weapon_attack.Anim_Goblin_weapon_attack
+[2023.09.09-22.43.02:397][162]LogSkeletalMesh: Building Skeletal Mesh SK_goblin_weapon...
+[2023.09.09-22.43.02:398][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.43.02:412][162]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Goblin/Mesh/Weapons/SK_goblin_weapon.SK_goblin_weapon
+[2023.09.09-22.43.02:412][162]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.09-22.43.02:575][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.43.02:656][162]LogViewport: Scene viewport resized to 988x478, mode Windowed.
+[2023.09.09-22.43.02:680][162]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.09-22.43.05:878][337]LogSlate: Window 'Anim_Goblin_weapon_attack' being destroyed
+[2023.09.09-22.43.05:882][337]LogSlate: Window 'Anim_Goblin_weapon_attack' being destroyed
+[2023.09.09-22.43.05:882][337]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.43.05:883][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.43.05:934][337]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.43.05:934][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.43.10:609][613]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Goblin/Animation/Anim_Goblin_Wizard_Weapon_attack_03.Anim_Goblin_Wizard_Weapon_attack_03
+[2023.09.09-22.43.10:609][613]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Goblin/Animation/Anim_Goblin_Wizard_Weapon_attack_03.Anim_Goblin_Wizard_Weapon_attack_03
+[2023.09.09-22.43.10:620][613]LogMaterial: Display: Missing cached shadermap for Mat_Staff in PCD3D_SM5, Default, SM5 (DDC key hash: E84081DF33DCF209828E3AE095354C29D9BFB360), compiling. 
+[2023.09.09-22.43.10:676][613]LogSkeletalMesh: Building Skeletal Mesh SK_Goblin_Wizard_Staff...
+[2023.09.09-22.43.10:677][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.43.10:702][613]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Staff_ORM.T_Staff_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.10:702][613]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_Goblin_Wizard_Staff) ...
+[2023.09.09-22.43.10:717][613]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Staff_D.T_Staff_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.10:717][613]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Weapons/SK_Goblin_Wizard_Staff.SK_Goblin_Wizard_Staff
+[2023.09.09-22.43.10:717][613]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.09.09-22.43.10:735][613]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Staff_N.T_Staff_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.10:735][613]LogTexture: Display: Waiting for textures to be ready 0/3 (/Game/Goblin/Textures/Weapons/T_Staff_N) ...
+[2023.09.09-22.43.11:117][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-22.43.11:372][613]LogViewport: Scene viewport resized to 988x478, mode Windowed.
+[2023.09.09-22.43.11:424][613]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.09.09-22.43.16:315][771]LogSlate: Window 'Anim_Goblin_Wizard_Weapon_attack_03' being destroyed
+[2023.09.09-22.43.16:320][771]LogSlate: Window 'Anim_Goblin_Wizard_Weapon_attack_03' being destroyed
+[2023.09.09-22.43.16:322][771]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.43.16:322][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.43.16:408][771]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.43.16:408][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: ================================================
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Total job queries 841, among them cache hits 0 (0.00%)
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Tracking 811 distinct input hashes that result in 29 distinct outputs (3.58%)
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Shaders Compiled: 841
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Jobs assigned 841, completed 811 (96.43%)
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Average time worker was idle: 84.43 s
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Time job spent in pending queue: average 82.32 s, longest 217.83 s
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Job execution time: average 19.65 s, max 34.37 s
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Job life time (pending + execution): average 105.00 s, max 219.97
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 227.88 s
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Jobs were issued in 145 batches (only local compilation was used), average 5.80 jobs/batch
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Average processing rate: 3.56 jobs/sec
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Effective parallelization: 7.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   51 times, average 2.69 sec, max 7.35 sec, min 1.16 sec)
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   51 times, average 2.67 sec, max 7.93 sec, min 1.10 sec)
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   51 times, average 2.51 sec, max 5.98 sec, min 1.18 sec)
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   51 times, average 2.37 sec, max 7.94 sec, min 0.93 sec)
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy (compiled   51 times, average 2.37 sec, max 6.17 sec, min 1.10 sec)
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.09-22.43.16:666][781]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.79% of total time (compiled   51 times, average 2.69 sec, max 7.35 sec, min 1.16 sec)
+[2023.09.09-22.43.16:667][781]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.72% of total time (compiled   51 times, average 2.67 sec, max 7.93 sec, min 1.10 sec)
+[2023.09.09-22.43.16:667][781]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.28% of total time (compiled   51 times, average 2.51 sec, max 5.98 sec, min 1.18 sec)
+[2023.09.09-22.43.16:667][781]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.88% of total time (compiled   51 times, average 2.37 sec, max 7.94 sec, min 0.93 sec)
+[2023.09.09-22.43.16:667][781]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy - 6.86% of total time (compiled   51 times, average 2.37 sec, max 6.17 sec, min 1.10 sec)
+[2023.09.09-22.43.16:667][781]LogShaderCompilers: Display: ================================================
+[2023.09.09-22.43.27:088][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.09.09-22.43.27:363][395]LogTexture: Display: Building textures: /Game/Goblin/Maps/Goblin_BuiltData.Goblin_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.27:363][395]LogTexture: Display: Building textures: /Game/Goblin/Maps/Goblin_BuiltData.Goblin_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.27:363][395]LogTexture: Display: Building textures: /Game/Goblin/Maps/Goblin_BuiltData.Goblin_BuiltData:ShadowMapTexture2D_3 (G8, 32X32 X1X1) (Required Memory Estimate: 0.006509 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.27:363][395]LogTexture: Display: Building textures: /Game/Goblin/Maps/Goblin_BuiltData.Goblin_BuiltData:ShadowMapTexture2D_2 (G8, 512X128 X1X1) (Required Memory Estimate: 0.416675 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.27:363][395]LogTexture: Display: Building textures: /Game/Goblin/Maps/Goblin_BuiltData.Goblin_BuiltData:NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.27:363][395]LogTexture: Display: Building textures: /Game/Goblin/Maps/Goblin_BuiltData.Goblin_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.27:363][395]LogTexture: Display: Building textures: /Game/Goblin/Maps/Goblin_BuiltData.Goblin_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.27:363][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Goblin/Animation/Anim_Goblin_body_attack_slash.Anim_Goblin_body_attack_slash
+[2023.09.09-22.43.27:363][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Goblin/Animation/Anim_Goblin_body_attack_slash.Anim_Goblin_body_attack_slash
+[2023.09.09-22.43.27:363][395]LogMaterial: Display: Missing cached shadermap for Mat_Goblin_ice in PCD3D_SM5, Default, SM5 (DDC key hash: 2D6E8658E8971D99FE34B85DCDCB0D77A4873F49), compiling. 
+[2023.09.09-22.43.27:409][395]LogMaterial: Display: Missing cached shadermap for Mat_Goblin_armor_green in PCD3D_SM5, Default, SM5 (DDC key hash: 8C74C1276847A4899EC68DBEFA7F41361159B369), compiling. 
+[2023.09.09-22.43.27:470][395]LogMaterial: Display: Missing cached shadermap for Mat_Goblin_red in PCD3D_SM5, Default, SM5 (DDC key hash: 1ABB10A7C336FFD7FDC01FE70EE14FD7885FDCC9), compiling. 
+[2023.09.09-22.43.27:563][395]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_Wizard_Cloak) ...
+[2023.09.09-22.43.29:366][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Base/T_Goblin_body_ice_D.T_Goblin_body_ice_D (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:366][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Base/T_Goblin_body_red_D.T_Goblin_body_red_D (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:366][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Base/T_Goblin_body_ice_ORM.T_Goblin_body_ice_ORM (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:366][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Light_Armor/T_Goblin_armor_green_D.T_Goblin_armor_green_D (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:366][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Light_Armor/T_Goblin_armor_green_ORM.T_Goblin_armor_green_ORM (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:366][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Base/T_Goblin_body_ice_N.T_Goblin_body_ice_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:366][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Light_Armor/T_Goblin_armor_green_N.T_Goblin_armor_green_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:366][395]LogSkeletalMesh: Building Skeletal Mesh SK_Wizard_Cloak...
+[2023.09.09-22.43.29:366][395]LogSkeletalMesh: Building Skeletal Mesh SK_Goblin_Body_Armor...
+[2023.09.09-22.43.29:366][395]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak
+[2023.09.09-22.43.29:366][395]LogSkeletalMesh: Building Skeletal Mesh SK_Goblin_Bracers...
+[2023.09.09-22.43.29:366][395]LogMaterial: Display: Missing cached shadermap for Mat_Shield_A in PCD3D_SM5, Default, SM5 (DDC key hash: 1EFEF11E1CEF91EEB1398CB5E9D26AC4A22ECC1A), compiling. 
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Building Skeletal Mesh SK_Goblin_Leg_Armor...
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Goblin/Mesh/Goblin_armor/SK_Goblin_Body_Armor.SK_Goblin_Body_Armor
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Building Skeletal Mesh SK_Goblin_skirt...
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Goblin/Mesh/Goblin_armor/SK_Goblin_Bracers.SK_Goblin_Bracers
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Building Skeletal Mesh SK_Head_Helmet...
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Goblin_armor/SK_Goblin_Leg_Armor.SK_Goblin_Leg_Armor
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Goblin/Mesh/Goblin_armor/SK_Goblin_skirt.SK_Goblin_skirt
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Goblin_armor/SK_Head_Helmet.SK_Head_Helmet
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Building Skeletal Mesh SK_Goblin_Legs...
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Building Skeletal Mesh SK_Goblin_Torso...
+[2023.09.09-22.43.29:448][395]LogSkeletalMesh: Building Skeletal Mesh SK_Arm_ice...
+[2023.09.09-22.43.29:448][395]LogMaterial: Display: Missing cached shadermap for Mat_Shield_ice_A in PCD3D_SM5, Default, SM5 (DDC key hash: 14BE176BF0FAB0DC22776FF5606CCCE9B85B2D57), compiling. 
+[2023.09.09-22.43.29:524][395]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Goblin_Base/SK_Goblin_Legs.SK_Goblin_Legs
+[2023.09.09-22.43.29:524][395]LogSkeletalMesh: Building Skeletal Mesh SK_Body_ice...
+[2023.09.09-22.43.29:524][395]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Goblin_ice/SK_Arm_ice.SK_Arm_ice
+[2023.09.09-22.43.29:524][395]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Goblin_ice/SK_Body_ice.SK_Body_ice
+[2023.09.09-22.43.29:524][395]LogSkeletalMesh: Building Skeletal Mesh SK_Bottom_Leg_ice...
+[2023.09.09-22.43.29:524][395]LogSkeletalMesh: Building Skeletal Mesh SK_Head_ice...
+[2023.09.09-22.43.29:524][395]LogMaterial: Display: Missing cached shadermap for Mat_Weapon_Shield_ice in PCD3D_SM5, Default, SM5 (DDC key hash: 1C9698BA9A914058CB05B48A7D8C85CFF3F1EF65), compiling. 
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Goblin_ice/SK_Head_ice.SK_Head_ice
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Building Skeletal Mesh SK_Shoulder_ice...
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Goblin/Mesh/Goblin_ice/SK_Shoulder_ice.SK_Shoulder_ice
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Building Skeletal Mesh SK_Top_Leg_ice...
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Goblin_ice/SK_Bottom_Leg_ice.SK_Bottom_Leg_ice
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Building Skeletal Mesh SK_Body_belt...
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Goblin_Light_Armor/SK_Body_belt.SK_Body_belt
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Building Skeletal Mesh SK_Fabric_Bracers...
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Goblin_ice/SK_Top_Leg_ice.SK_Top_Leg_ice
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Building Skeletal Mesh SK_Fabric_Leg...
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Goblin_Light_Armor/SK_Fabric_Bracers.SK_Fabric_Bracers
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/Goblin/Mesh/Goblin_Base/SK_Goblin_Torso.SK_Goblin_Torso
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Building Skeletal Mesh SK_Fabric_Skirt...
+[2023.09.09-22.43.29:599][395]LogSkeletalMesh: Building Skeletal Mesh SK_Head_Hat...
+[2023.09.09-22.43.29:599][395]LogMaterial: Display: Missing cached shadermap for Mat_Weapon_Axe in PCD3D_SM5, Default, SM5 (DDC key hash: 83F19536604F05055B8020BF9544471E0BED7849), compiling. 
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Goblin_Light_Armor/SK_Fabric_Leg.SK_Fabric_Leg
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Building Skeletal Mesh SK_Wizard_Bottle...
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Goblin_Light_Armor/SK_Fabric_Skirt.SK_Fabric_Skirt
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Building Skeletal Mesh SK_Wizard_Bracers...
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Goblin_Light_Armor/SK_Head_Hat.SK_Head_Hat
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Building Skeletal Mesh SK_Wizard_Hat...
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Bottle.SK_Wizard_Bottle
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Building Skeletal Mesh SK_Wizard_Pants...
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Bracers.SK_Wizard_Bracers
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Hat.SK_Wizard_Hat
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Building Skeletal Mesh SK_Wizard_Scroll...
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Building Skeletal Mesh SK_Shield...
+[2023.09.09-22.43.29:673][395]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Goblin/Mesh/Weapons/SK_Shield.SK_Shield
+[2023.09.09-22.43.29:673][395]LogMaterial: Display: Missing cached shadermap for Mat_Weapon_Sword_ice in PCD3D_SM5, Default, SM5 (DDC key hash: 6D28BD98652E573EAB8B2F2370FC3FB05A4DC9AC), compiling. 
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Building Skeletal Mesh SK_Shield_A...
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Goblin/Mesh/Weapons/SK_Shield_A.SK_Shield_A
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Pants.SK_Wizard_Pants
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Building Skeletal Mesh SK_Shield_ice...
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Building Skeletal Mesh SK_Sword...
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Scroll.SK_Wizard_Scroll
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Building Skeletal Mesh SK_Weapon_Axe...
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Goblin/Mesh/Weapons/SK_Sword.SK_Sword
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Goblin/Mesh/Weapons/SK_Weapon_Axe.SK_Weapon_Axe
+[2023.09.09-22.43.29:746][395]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Weapons/SK_Shield_ice.SK_Shield_ice
+[2023.09.09-22.43.29:809][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Base/T_Goblin_body_red_E.T_Goblin_body_red_E (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:809][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Shield_D.T_Shield_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:809][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.09.09-22.43.29:809][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.09.09-22.43.29:830][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.09.09-22.43.29:830][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.09.09-22.43.29:831][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.09.09-22.43.29:831][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.09.09-22.43.29:834][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.09.09-22.43.29:834][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.09.09-22.43.29:836][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Shield_ice_D.T_Shield_ice_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:837][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.09.09-22.43.29:837][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.09.09-22.43.29:866][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Shield_ORM.T_Shield_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:866][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Shield_N.T_Shield_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.29:866][395]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_Weapon_Sword_ice) ...
+[2023.09.09-22.43.30:263][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Base/T_Goblin_body_red_ORM.T_Goblin_body_red_ORM (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.30:263][395]LogSkeletalMesh: Building Skeletal Mesh SK_Weapon_Sword_ice...
+[2023.09.09-22.43.30:263][395]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Goblin/Mesh/Weapons/SK_Weapon_Sword_ice.SK_Weapon_Sword_ice
+[2023.09.09-22.43.30:263][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.09.09-22.43.30:263][395]LogSkeletalMesh: Display: OnRegister[/Game/Goblin/Mesh/Goblin_Wizard/SK_Wizard_Cloak.SK_Wizard_Cloak]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.09.09-22.43.30:270][395]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Goblin/Maps/Goblin.Goblin
+[2023.09.09-22.43.30:270][395]Cmd: MAP LOAD FILE="../../../../../../Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Content/Goblin/Maps/Goblin.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.09-22.43.30:270][395]LightingResults: New page: Lighting Build
+[2023.09.09-22.43.30:270][395]LoadErrors: New page: Loading map: Goblin.umap
+[2023.09.09-22.43.30:274][395]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-22.43.30:275][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-22.43.30:285][395]LogStaticMesh: Display: Building static mesh SM_Axe...
+[2023.09.09-22.43.30:285][395]LogStaticMesh: Display: Building static mesh SM_Shield...
+[2023.09.09-22.43.30:285][395]LogStaticMesh: Display: Building static mesh SM_Shield_ice...
+[2023.09.09-22.43.30:285][395]MapCheck: New page: Map Check
+[2023.09.09-22.43.30:285][395]LightingResults: New page: Lighting Build
+[2023.09.09-22.43.30:298][395]LogStaticMesh: Display: Building static mesh SM_Shield_v2...
+[2023.09.09-22.43.30:298][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.09-22.43.30:305][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.09.09-22.43.30:328][395]LogStaticMesh: Built static mesh [0.03s] /Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Shield.SM_Shield
+[2023.09.09-22.43.30:328][395]LogStaticMesh: Built static mesh [0.03s] /Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Axe.SM_Axe
+[2023.09.09-22.43.30:328][395]LogStaticMesh: Built static mesh [0.03s] /Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Shield_v2.SM_Shield_v2
+[2023.09.09-22.43.30:328][395]LogStaticMesh: Built static mesh [0.03s] /Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Shield_ice.SM_Shield_ice
+[2023.09.09-22.43.30:328][395]LogTexture: Display: Waiting for textures to be ready 7/25 (/Game/Goblin/Textures/Goblin_Base/T_Goblin_body_red_E) ...
+[2023.09.09-22.43.30:385][395]LogTexture: Display: Waiting for textures to be ready 8/25 (/Game/Goblin/Textures/Goblin_Base/T_Goblin_body_red_N) ...
+[2023.09.09-22.43.30:482][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_ice_D.T_ice_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.30:482][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_ice_N.T_ice_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.30:482][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Goblin_Base/T_Goblin_body_red_N.T_Goblin_body_red_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.30:547][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Shield_ice_ORM.T_Shield_ice_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.30:547][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Shield_ice_N.T_Shield_ice_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.30:547][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_ice_ORM.T_ice_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.31:042][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Weapon_Axe_D.T_Weapon_Axe_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.31:042][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Weapon_Axe_ORM.T_Weapon_Axe_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.31:043][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Weapon_Axe_N.T_Weapon_Axe_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.31:043][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Weapon_Sword_ice_D.T_Weapon_Sword_ice_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.31:065][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Weapon_Sword_ice_N.T_Weapon_Sword_ice_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.31:457][395]LogTexture: Display: Building textures: /Game/Goblin/Textures/Weapons/T_Weapon_Sword_ice_ORM.T_Weapon_Sword_ice_ORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.09.09-22.43.31:457][395]LogStaticMesh: Display: Building static mesh SM_Staff...
+[2023.09.09-22.43.31:457][395]LogStaticMesh: Display: Building static mesh SM_Sword...
+[2023.09.09-22.43.31:457][395]LogStaticMesh: Built static mesh [0.03s] /Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Staff.SM_Staff
+[2023.09.09-22.43.31:457][395]LogStaticMesh: Display: Building static mesh SM_Sword_ice...
+[2023.09.09-22.43.31:457][395]LogStaticMesh: Built static mesh [0.01s] /Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Sword.SM_Sword
+[2023.09.09-22.43.31:457][395]LogStaticMesh: Built static mesh [0.02s] /Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Sword_ice.SM_Sword_ice
+[2023.09.09-22.43.33:751][395]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.09.09-22.43.33:751][395]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049384s
