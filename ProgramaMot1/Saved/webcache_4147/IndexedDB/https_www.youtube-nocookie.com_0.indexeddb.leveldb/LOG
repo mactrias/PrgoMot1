@@ -1,0 +1,5 @@
+2023/09/09-14:59:41.948 7248 Reusing MANIFEST C:/Users/mactr/OneDrive/Desktop/progmotores1/PrgoMot1/ProgramaMot1/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/09-15:06:22.482 71d0 Level-0 table #5: started
+2023/09/09-15:06:22.489 71d0 Level-0 table #5: 1165 bytes OK
+2023/09/09-15:06:22.491 71d0 Delete type=0 #3
+2023/09/09-15:06:22.491 71d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
