@@ -1,0 +1,1140 @@
+﻿Log file open, 09/22/23 15:33:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=19180)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProgramaMot1
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "F:\UE Projects\PrgoMot1\PrgoMot1\ProgramaMot1\ProgramaMot1.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.2416] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e05ce3fb465c8e05e8f36a88e4bc0636"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.921430
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-7482E49C4B81EB86FCBC1ABB8323BFAF
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.10 seconds
+LogConfig: Display: Loading Unix ini files took 0.10 seconds
+LogConfig: Display: Loading Linux ini files took 0.12 seconds
+LogConfig: Display: Loading Mac ini files took 0.15 seconds
+LogConfig: Display: Loading TVOS ini files took 0.11 seconds
+LogConfig: Display: Loading IOS ini files took 0.10 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.15 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.18 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin HoudiniEngine
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HoudiniEngine/Content/' mounted to '/HoudiniEngine/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.2416] (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.09.22-18.33.56:871][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.09.22-18.33.56:871][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.09.22-18.33.56:871][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.09.22-18.33.56:871][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.09.22-18.33.56:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.09.22-18.33.56:890][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.09.22-18.33.56:890][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.09.22-18.33.56:956][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.09.22-18.33.56:956][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.09.22-18.33.56:956][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.09.22-18.33.56:956][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.09.22-18.33.56:956][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.09.22-18.33.56:956][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.09.22-18.33.56:956][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.09.22-18.33.56:956][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.09.22-18.33.56:957][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.09.22-18.33.56:957][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.09.22-18.33.56:957][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.09.22-18.33.57:210][  0]LogD3D12RHI: Aftermath initialized
+[2023.09.22-18.33.57:210][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.09.22-18.33.57:610][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 6GB (Max supported Feature Level 12_1, shader model 6.6)
+[2023.09.22-18.33.57:610][  0]LogD3D12RHI: Adapter has 6044MB of dedicated video memory, 0MB of dedicated system memory, and 8117MB of shared system memory, 1 output[s]
+[2023.09.22-18.33.58:561][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+[2023.09.22-18.33.58:561][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8117MB of shared system memory, 1 output[s]
+[2023.09.22-18.33.58:586][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.09.22-18.33.58:586][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8117MB of shared system memory, 0 output[s]
+[2023.09.22-18.33.58:586][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.09.22-18.33.58:586][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.09.22-18.33.58:602][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.09.22-18.33.58:602][  0]LogHAL: Display: Platform has ~ 16 GB [17023356928 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.09.22-18.33.58:602][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.09.22-18.33.58:602][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.09.22-18.33.58:602][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.09.22-18.33.58:623][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.09.22-18.33.58:623][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Saved/Config/WindowsEditor/Editor.ini]
+[2023.09.22-18.33.58:654][  0]LogInit: Computer: DESKTOP-PO0AEJ9
+[2023.09.22-18.33.58:654][  0]LogInit: User: matub
+[2023.09.22-18.33.58:654][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.09.22-18.33.58:654][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.09.22-18.33.58:654][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.09.22-18.33.58:654][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.09.22-18.33.58:654][  0]LogMemory: Process Physical Memory: 278.87 MB used, 284.32 MB peak
+[2023.09.22-18.33.58:654][  0]LogMemory: Process Virtual Memory: 240.89 MB used, 240.89 MB peak
+[2023.09.22-18.33.58:655][  0]LogMemory: Physical Memory: 8306.38 MB used,  7928.36 MB free, 16234.74 MB total
+[2023.09.22-18.33.58:655][  0]LogMemory: Virtual Memory: 11349.85 MB used,  17172.89 MB free, 28522.74 MB total
+[2023.09.22-18.33.58:655][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.09.22-18.33.58:665][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.09.22-18.33.59:073][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.09.22-18.33.59:096][  0]LogInit: Using OS detected language (en-US).
+[2023.09.22-18.33.59:096][  0]LogInit: Using OS detected locale (en-US).
+[2023.09.22-18.33.59:319][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.09.22-18.33.59:761][  0]LogInit: Setting process to per monitor DPI aware
+[2023.09.22-18.33.59:853][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.09.22-18.33.59:853][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.09.22-18.33.59:853][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.09.22-18.33.59:853][  0]LogWindowsTextInputMethodSystem:   - Spanish (Argentina) - (Keyboard).
+[2023.09.22-18.33.59:853][  0]LogWindowsTextInputMethodSystem:   - Spanish (Mexico) - (Keyboard).
+[2023.09.22-18.33.59:853][  0]LogWindowsTextInputMethodSystem: Activated input method: Spanish (Argentina) - (Keyboard).
+[2023.09.22-18.34.00:287][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.09.22-18.34.00:287][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.09.22-18.34.04:895][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.09.22-18.34.04:916][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.09.22-18.34.04:916][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.09.22-18.34.05:010][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.09.22-18.34.05:080][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.09.22-18.34.05:086][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.09.22-18.34.05:101][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.09.22-18.34.05:332][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.09.22-18.34.05:332][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.09.22-18.34.05:634][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2023.09.22-18.34.05:634][  0]LogD3D12RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2023.09.22-18.34.05:634][  0]LogWindows: Attached monitors:
+[2023.09.22-18.34.05:634][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.09.22-18.34.05:634][  0]LogWindows:     resolution: 1366x768, work area: (-1366, 307) -> (0, 1075), device: '\\.\DISPLAY5'
+[2023.09.22-18.34.05:634][  0]LogWindows: Found 2 attached monitors.
+[2023.09.22-18.34.05:634][  0]LogWindows: EnumDisplayDevices:
+[2023.09.22-18.34.05:634][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.09.22-18.34.05:635][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.09.22-18.34.05:635][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.09.22-18.34.05:635][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.09.22-18.34.05:635][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:1), name: '\\.\DISPLAY5'
+[2023.09.22-18.34.05:635][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.09.22-18.34.05:636][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.09.22-18.34.05:636][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.09.22-18.34.05:636][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2023.09.22-18.34.05:636][  0]LogD3D12RHI:   Driver Version: 537.42 (internal:31.0.15.3742, unified:537.42)
+[2023.09.22-18.34.05:636][  0]LogD3D12RHI:      Driver Date: 9-12-2023
+[2023.09.22-18.34.05:636][  0]LogRHI: Texture pool is 3323 MB (70% of 4748 MB)
+[2023.09.22-18.34.05:636][  0]LogD3D12RHI: Async texture creation enabled
+[2023.09.22-18.34.05:636][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.09.22-18.34.06:157][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.09.22-18.34.06:327][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyReport_0.log" -log="F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyLog_0.log" -project="F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject"  -platform=all'
+[2023.09.22-18.34.06:338][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""F:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyReport_0.log" -log="F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Intermediate/TurnkeyLog_0.log" -project="F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/ProgramaMot1.uproject"  -platform=all" ]
+[2023.09.22-18.34.06:743][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.09.22-18.34.06:744][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.09.22-18.34.07:099][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.09.22-18.34.07:099][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.09.22-18.34.07:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.09.22-18.34.07:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.09.22-18.34.07:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.09.22-18.34.07:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.09.22-18.34.07:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.09.22-18.34.07:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.09.22-18.34.07:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.09.22-18.34.07:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.09.22-18.34.07:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.09.22-18.34.07:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.09.22-18.34.07:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.09.22-18.34.07:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.09.22-18.34.07:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.09.22-18.34.07:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.09.22-18.34.07:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.09.22-18.34.07:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.09.22-18.34.07:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.09.22-18.34.07:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.09.22-18.34.07:797][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.09.22-18.34.08:043][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.09.22-18.34.08:072][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.09.22-18.34.08:072][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.09.22-18.34.08:072][  0]LogTargetPlatformManager:   ADPCM
+[2023.09.22-18.34.08:072][  0]LogTargetPlatformManager:   PCM
+[2023.09.22-18.34.08:109][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.09.22-18.34.08:109][  0]LogTargetPlatformManager:   BINKA
+[2023.09.22-18.34.08:109][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.09.22-18.34.08:109][  0]LogTargetPlatformManager:   OGG
+[2023.09.22-18.34.08:109][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.09.22-18.34.08:109][  0]LogTargetPlatformManager:   OPUS
+[2023.09.22-18.34.08:830][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   SF_METAL
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.09.22-18.34.08:957][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.09.22-18.34.09:030][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.09.22-18.34.09:030][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.09.22-18.34.09:030][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.09.22-18.34.09:030][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.09.22-18.34.09:030][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.09.22-18.34.09:030][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.09.22-18.34.09:030][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.09.22-18.34.09:041][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.09.22-18.34.09:074][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.09.22-18.34.09:088][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.09.22-18.34.09:088][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.09.22-18.34.09:098][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.09.22-18.34.09:130][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.09.22-18.34.09:130][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.09.22-18.34.09:131][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.22-18.34.09:131][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.09.22-18.34.09:220][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.09.22-18.34.09:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.22-18.34.09:220][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.09.22-18.34.09:711][  0]LogDerivedDataCache: Speed tests for C:/Users/matub/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.49 seconds
+[2023.09.22-18.34.09:711][  0]LogDerivedDataCache: Display: Performance to C:/Users/matub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=19.35ms. RandomReadSpeed=3.69MBs, RandomWriteSpeed=150.09MBs. Assigned SpeedClass 'Ok'
+[2023.09.22-18.34.09:714][  0]LogDerivedDataCache: Using Local data cache path C:/Users/matub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.09.22-18.34.09:714][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.09.22-18.34.09:714][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.09.22-18.34.09:735][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.09.22-18.34.09:735][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.09.22-18.34.09:849][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Intermediate/Shaders/WorkingDirectory/9376/).
+[2023.09.22-18.34.09:849][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/matub/AppData/Local/Temp/UnrealShaderWorkingDir/6DAD235F491E4E272640E29C9E45EC8C/'.
+[2023.09.22-18.34.09:849][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.09.22-18.34.09:850][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.09.22-18.34.19:770][  0]LogSlate: Using FreeType 2.10.0
+[2023.09.22-18.34.19:847][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.09.22-18.34.21:966][  0]LogAssetRegistry: FAssetRegistry took 0.0465 seconds to start up
+[2023.09.22-18.34.22:271][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.09.22-18.34.44:328][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.09.22-18.34.44:754][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.09.22-18.34.45:152][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.09.22-18.34.45:152][  0]LogDeviceProfileManager: Active device profile: [000007873F2F8500][00000787347F0000 50] WindowsEditor
+[2023.09.22-18.34.45:152][  0]LogDeviceProfileManager: Profiles: [000007873F2F7FC0][00000787347F2800 50] Windows, [000007873F2F8500][00000787347F0000 50] WindowsEditor, [000007873F2F7540][00000787347FA000 50] WindowsServer, [000007873F2F6740][0000078726A07800 50] WindowsClient, [000007873F2F6200][00000787347B7800 50] IOS, [000007873F2F7A80][00000787347F5000 50] iPadAir2, [000007873F2F78C0][000007873F650000 50] IPadPro, [000007873F2F86C0][000007873F652800 50] iPadAir3, [000007873F2F4980][000007873F657800 50] iPadAir4, [000007873F2F4D00][000007873F65A000 50] iPadMini4, [000007873F2F8A40][000007873F65C800 50] iPadMini5, [000007873F2F4440][00000787347B5000 50] iPadMini6, [000007873F2FBB40][000007873F662800 50] iPhone6S, [000007873F2FBEC0][000007873F660000 50] iPhone7, [000007873F2FC240][000007873F665000 50] iPodTouch7, [000007873F2F6C80][000007873F66A000 50] iPhone6SPlus, [000007873F2F9BC0][000007873F66C800 50] iPhone7Plus, [000007873F2F6900][000007873F655000 50] iPhoneSE, [000007873F2F4EC0][000007873F667800 50] iPhone8, [000007873F2F5780][000007873F5E0000 50] iPhone8Plus, [000007873F2FA800][000007873F5E5000 50] iPhoneX, [000007873F2FC080][000007873F5E7800 50] iPhoneXS, [000007873F2F71C0][000007873F5EA000 50] iPhoneXSMax, [000007873F2F5B00][000007873F5EC800 50] iPhoneXR, [000007873F2F9D80][00000787370CC800 50] iPhone11, [000007873F2FB7C0][000007873F630000 50] iPhone11Pro, [000007873F2F8880][000007873F635000 50] iPhone11ProMax, [000007873F2F7380][000007873F637800 50] iPhoneSE2, [000007873F2F6AC0][000007873F63A000 50] iPhone12Mini, [000007873F2F3F00][000007873F63C800 50] iPhone12, [000007873F2F4B40][000007873F5E2800 50] iPhone12Pro, [000007873F2F2F40][000007873F690000 50] iPhone12ProMax, [000007873F2F8C00][000007873F695000 50] iPhone13Mini, [000007873F2FB280][000007873F697800 50] iPhone13, [000007873F2F7E00][000007873F69A000 50] iPhone13Pro, [000007873F2F5240][000007873F69C800 50] iPhone13ProMax, [000007873F2F6E40][000007873F632800 50] iPadPro105, [000007873F2F8340][000007873F680000 50] iPadPro129, [000007873F2FBD00][000007873F685000 50] iPadPro97, [000007873F2FCB00][000007873F687800 50] iPadPro2_129, [000007873F2FA2C0][000007873F68A000 50] iPad5, [000007873F2F6040][000007873F68C800 50] iPad6, [000007873F2FB440][000007873F692800 50] iPad7, [000007873F2F55C0][000007873F6A0000 50] iPad8, [000007873F2F40C0][000007873F6A5000 50] iPad9, [000007873F2F7C40][000007873F6A7800 50] iPadPro11, [000007873F2FC5C0][000007873F6AA000 50] iPadPro2_11, [000007873F2FAD40][000007873F6AC800 50] iPadPro3_11, [000007873F2F5080][000007873F682800 50] iPadPro3_129, [000007873F2F9680][000007873F610000 50] iPadPro4_129, [000007873F2F5CC0][000007873F615000 50] iPadPro5_129, [000007873F2F3800][000007873F617800 50] AppleTV, [000007873F2F6580][000007873F61A000 50] AppleTV4K, [000007873F2F9140][000007873F61C800 50] TVOS, [000007873F2FDAC0][000007873F6F0000 50] Mac, [000007873F2FDE40][000007873F6F2800 50] MacEditor, [000007873F2FD740][000007873F6F7800 50] MacClient, [000007873F2F9840][000007873F6FA000 50] MacServer, [000007873F2FE000][000007873F6A2800 50] Linux, [000007873F2FAB80][000007873F612800 50] LinuxEditor, [000007873F2FC780][000007873F6FC800 50] LinuxArm64Editor, [000007873F2F3480][000007873F6D0000 50] LinuxArm64, [000007873F2FE700][000007873F6D5000 50] LinuxClient, [000007873F2F3640][000007873F6D7800 50] LinuxArm64Client, [000007873F2FD3C0][000007873F6DA000 50] LinuxServer, [000007873F2FD580][000007873F6DC800 50] LinuxArm64Server, [000007873F2FCE80][000007873F6F5000 50] Android, [000007873F2F9A00][000007873F700000 50] Android_Preview_OpenGL, [000007873F2FA100][000007873F705000 50] Android_Preview_Vulkan, [000007873F2FC940][000007873F707800 50] Android_Low, [000007873F2F5400][000007873F70A000 50] Android_Mid, [000007873F2FB0C0][000007873F70C800 50] Android_High, [000007873F2FE380][000007873F6D2800 50] Android_Default, [000007873F2F8F80][000007873F710000 50] Android_Adreno4xx, [000007873F2FB600][000007873F715000 50] Android_Adreno5xx_Low, [000007873F2F47C0][000007873F717800 50] Android_Adreno5xx, [000007873F2FE1C0][000007873F71A000 50] Android_Adreno6xx, [000007873F2FD200][000007873F71C800 50] Android_Adreno6xx_Vulkan, [000007873F2F9F40][000007873F702800 50] Android_Adreno7xx, [000007873F2F8DC0][000007873F720000 50] Android_Adreno7xx_Vulkan, [000007873F2FA640][000007873F725000 50] Android_Mali_T6xx, [000007873F2FEA80][000007873F727800 50] Android_Mali_T7xx, [000007873F2F7000][000007873F72A000 50] Android_Mali_T8xx, [000007873F2FCCC0][000007873F72C800 50] Android_Mali_G71, [000007873F2FFA40][000007873F712800 50] Android_Mali_G72, [000007873F2FDC80][000007873F6E0000 50] Android_Mali_G72_Vulkan, [000007873F2FD900][000007873F6E5000 50] Android_Mali_G76, [000007873F2F7700][000007873F6E7800 50] Android_Mali_G76_Vulkan, [000007873F2F5E80][000007873F6EA000 50] Android_Mali_G77, [000007873F2FA9C0][000007873F6EC800 50] Android_Mali_G77_Vulkan, [000007873F2F9300][000007873F722800 50] Android_Mali_G78, [000007873F2FF500][000007873F730000 50] Android_Mali_G78_Vulkan, [000007873F2FA480][000007873F735000 50] Android_Mali_G710, [000007873F2F5940][000007873F737800 50] Android_Mali_G710_Vulkan, [000007873F2F94C0][000007873F73A000 50] Android_Xclipse_920, [000007873F760000][000007873F73C800 50] Android_Xclipse_920_Vulkan, [000007873F762300][000007873F6E2800 50] Android_Vulkan_SM5, [000007873F762140][000007873F740000 50] Android_PowerVR_G6xxx, [000007873F761F80][000007873F745000 50] Android_PowerVR_GT7xxx, [000007873F761DC0][000007873F747800 50] Android_PowerVR_GE8xxx, [000007873F762680][000007873F74A000 50] Android_PowerVR_GM9xxx, [000007873F7608C0][000007873F74C800 50] Android_PowerVR_GM9xxx_Vulkan, [000007873F761340][000007873F732800 50] Android_TegraK1, [000007873F763D40][000007873F770000 50] Android_Unknown_Vulkan, [000007873F761180][000007873F775000 50] Oculus_Quest, [000007873F762BC0][000007873F777800 50] Oculus_Quest2, [000007873F7616C0][000007873F77A000 50] HoloLens, 
+[2023.09.22-18.34.45:152][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.09.22-18.34.48:354][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.09.22-18.34.51:997][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.09.22-18.34.51:997][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.09.22-18.34.51:997][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.09.22-18.34.51:997][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.09.22-18.34.51:998][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.09.22-18.34.54:655][  0]LogNetVersion: ProgramaMot1 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1759894929)
+[2023.09.22-18.35.07:295][  0]LogSlate: Border
+[2023.09.22-18.35.07:295][  0]LogSlate: BreadcrumbButton
+[2023.09.22-18.35.07:295][  0]LogSlate: Default
+[2023.09.22-18.35.07:295][  0]LogSlate: Icons.Save
+[2023.09.22-18.35.07:295][  0]LogSlate: Icons.Toolbar.Settings
+[2023.09.22-18.35.07:295][  0]LogSlate: ListView
+[2023.09.22-18.35.07:295][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.09.22-18.35.07:295][  0]LogSlate: SoftwareCursor_Grab
+[2023.09.22-18.35.07:295][  0]LogSlate: TableView.DarkRow
+[2023.09.22-18.35.07:295][  0]LogSlate: TableView.Row
+[2023.09.22-18.35.07:295][  0]LogSlate: TreeView
+[2023.09.22-18.35.22:349][  0]SourceControl: Source control is disabled
+[2023.09.22-18.35.22:663][  0]SourceControl: Source control is disabled
+[2023.09.22-18.35.22:663][  0]SourceControl: Source control is disabled
+[2023.09.22-18.35.23:498][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.09.22-18.35.23:506][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.09.22-18.35.23:506][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.09.22-18.35.28:930][  0]LogPython: Using Python 3.9.7
+[2023.09.22-18.35.31:357][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 58A6F0654663355792A94A8FAB3080DF | Instance: 712421BE43AB2BB73A1AC88E253571D6 (DESKTOP-PO0AEJ9-9376).
+[2023.09.22-18.35.32:346][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.22-18.35.32:424][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.09.22-18.35.33:566][  0]SourceControl: Source control is disabled
+[2023.09.22-18.35.33:611][  0]SourceControl: Source control is disabled
+[2023.09.22-18.35.33:781][  0]SourceControl: Source control is disabled
+[2023.09.22-18.35.33:973][  0]LogUProjectInfo: Found projects:
+[2023.09.22-18.35.37:790][  0]LogOpenImageDenoise: OIDN starting up
+[2023.09.22-18.35.38:600][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.22-18.35.38:862][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.22-18.35.38:862][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.22-18.35.39:497][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2023.09.22-18.35.39:550][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path F:/Houdini/Houdini 19.0.720/bin
+[2023.09.22-18.35.40:153][  0]LogCollectionManager: Loaded 0 collections in 0.001258 seconds
+[2023.09.22-18.35.41:192][  0]LogFileCache: Scanning file cache for directory 'F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Saved/Collections/' took 0.00s
+[2023.09.22-18.35.41:192][  0]LogFileCache: Scanning file cache for directory 'F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Content/Developers/matub/Collections/' took 0.02s
+[2023.09.22-18.35.41:192][  0]LogFileCache: Scanning file cache for directory 'F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Content/Collections/' took 0.00s
+[2023.09.22-18.35.43:531][  0]LogEngine: Initializing Engine...
+[2023.09.22-18.35.43:695][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.09.22-18.35.43:748][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.09.22-18.35.45:141][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.09.22-18.35.45:189][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.09.22-18.35.45:476][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.22-18.35.45:935][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.22-18.35.46:110][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.09.22-18.35.46:213][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.09.22-18.35.46:242][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.09.22-18.35.46:243][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.09.22-18.35.46:274][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.09.22-18.35.46:274][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.09.22-18.35.46:306][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.22-18.35.46:306][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.22-18.35.46:307][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.22-18.35.46:307][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.22-18.35.46:307][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.22-18.35.46:307][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.22-18.35.46:307][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.22-18.35.46:318][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.22-18.35.46:340][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.22-18.35.46:340][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.22-18.35.46:340][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.22-18.35.46:411][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.22-18.35.46:482][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Cloud Revolver S)
+[2023.09.22-18.35.46:501][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.22-18.35.46:503][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.22-18.35.46:503][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.22-18.35.46:505][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.09.22-18.35.46:505][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.22-18.35.46:507][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.22-18.35.46:507][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.09.22-18.35.46:507][  0]LogInit: FAudioDevice initialized.
+[2023.09.22-18.35.46:507][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.09.22-18.35.46:507][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.09.22-18.35.46:507][  0]LogInit: Texture streaming: Enabled
+[2023.09.22-18.35.46:722][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.09.22-18.35.46:756][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.09.22-18.35.46:924][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.09.22-18.35.46:981][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.09.22-18.35.46:981][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.09.22-18.35.50:164][  0]LogLiveCoding: Display: First instance in process group "UE_ProgramaMot1_0xa05adfe9", spawning console
+[2023.09.22-18.35.50:164][  0]LogLiveCoding: Display: Waiting for server
+[2023.09.22-18.35.50:164][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.09.22-18.35.50:226][  0]LogInit: Transaction tracking system initialized
+[2023.09.22-18.35.51:228][  0]BlueprintLog: New page: Editor Load
+[2023.09.22-18.35.52:777][  0]LocalizationService: Localization service is disabled
+[2023.09.22-18.35.53:068][  0]TimingProfiler: Initialize
+[2023.09.22-18.35.53:069][  0]TimingProfiler: OnSessionChanged
+[2023.09.22-18.35.53:075][  0]LoadingProfiler: Initialize
+[2023.09.22-18.35.53:086][  0]LoadingProfiler: OnSessionChanged
+[2023.09.22-18.35.53:121][  0]NetworkingProfiler: Initialize
+[2023.09.22-18.35.53:122][  0]NetworkingProfiler: OnSessionChanged
+[2023.09.22-18.35.53:122][  0]MemoryProfiler: Initialize
+[2023.09.22-18.35.53:122][  0]MemoryProfiler: OnSessionChanged
+[2023.09.22-18.35.58:611][  0]LogFileCache: Scanning file cache for directory 'F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Content/' took 0.09s
+[2023.09.22-18.35.58:611][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.09.22-18.35.58:963][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2023.09.22-18.35.59:162][  0]LogSlate: Only pngs are supported in Slate
+[2023.09.22-18.35.59:162][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2023.09.22-18.35.59:164][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2023.09.22-18.35.59:421][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.09.22-18.35.59:772][  0]SourceControl: Source control is disabled
+[2023.09.22-18.35.59:795][  0]LogUnrealEdMisc: Loading editor; pre map load, took 137.474
+[2023.09.22-18.35.59:859][  0]Cmd: MAP LOAD FILE="../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.22-18.35.59:860][  0]LightingResults: New page: Lighting Build
+[2023.09.22-18.35.59:998][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.22-18.36.00:137][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.22-18.36.00:190][  0]MapCheck: New page: Map Check
+[2023.09.22-18.36.00:190][  0]LightingResults: New page: Lighting Build
+[2023.09.22-18.36.00:736][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.22-18.36.01:004][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.22-18.36.02:248][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.09.22-18.36.02:306][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.22-18.36.02:307][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.09.22-18.36.02:333][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.22-18.36.02:334][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.09.22-18.36.02:630][  0]LogWorldPartition: Display: WorldPartition initialize took 296 ms
+[2023.09.22-18.36.03:111][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.22-18.36.03:157][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.09.22-18.36.03:175][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.22-18.36.03:193][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 17.97ms to complete.
+[2023.09.22-18.36.03:204][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 3.367
+[2023.09.22-18.36.04:305][  0]LogUnrealEdMisc: Total Editor Startup Time, took 141.986
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: ================================================
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.22-18.36.04:318][  0]LogShaderCompilers: Display: ================================================
+[2023.09.22-18.36.04:774][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.22-18.36.04:806][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.22-18.36.04:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.22-18.36.04:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.22-18.36.05:285][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:286][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:344][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:344][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:350][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:350][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:374][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:374][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:389][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:389][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:396][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:396][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:402][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:402][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:409][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:409][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:414][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:414][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:420][  0]LogPakFile: Display: Mounted Pak file 'F:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.09.22-18.36.05:421][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.09.22-18.36.05:421][  0]LogFeaturePack: Error: Error in Feature pack F:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.09.22-18.36.07:393][  0]LogSlate: Took 0.015180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.22-18.36.07:470][  0]LogSlate: Took 0.025001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.22-18.36.07:513][  0]LogSlate: Took 0.019417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.22-18.36.07:544][  0]LogSlate: Took 0.029343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.09.22-18.36.07:562][  0]LogSlate: Took 0.016642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.22-18.36.07:707][  0]LogViewport: Scene viewport resized to 1170x611, mode Windowed.
+[2023.09.22-18.36.08:169][  0]LogSlate: Took 0.035325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.22-18.36.09:795][  0]LogStall: Startup...
+[2023.09.22-18.36.09:797][  0]LogStall: Startup complete.
+[2023.09.22-18.36.09:931][  0]LogLoad: (Engine Initialization) Total time: 147.61 seconds
+[2023.09.22-18.36.09:931][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.22-18.36.10:077][  0]LogAssetRegistry: Asset discovery search completed in 108.1109 seconds
+[2023.09.22-18.36.10:147][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.09.22-18.36.10:379][  0]LogDerivedDataCache: C:/Users/matub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.528 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.22-18.36.10:379][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.09.22-18.36.11:201][  1]LogFileCache: Retrieving MD5 hashes for directory 'F:/UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Content/' took 1.16s
+[2023.09.22-19.10.35:152][784]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (2- JBL GO 2), InstanceID=1
+[2023.09.22-19.10.35:182][785]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16120
+[2023.09.22-19.10.35:205][787]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{8b71016a-e765-44d7-8465-01e094ae1634}, Name=Speakers (2- JBL GO 2)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=31.89
+[2023.09.22-19.10.35:205][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.22-19.10.35:212][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.22-19.29.43:011][716]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.09.22-19.30.02:203][261]Cmd: TRANSACTION UNDO
+[2023.09.22-19.30.02:203][261]LogEditorTransaction: Undo Move Elements
+[2023.09.22-19.30.02:282][261]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2023.09.22-19.30.02:282][261]LogGeometryMode: Warning: Unable to resolve Brush_1 Brush in new BSP, see above
+[2023.09.22-19.30.02:282][261]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2023.09.22-19.30.08:524][744]Cmd: TRANSACTION UNDO
+[2023.09.22-19.30.08:524][744]LogEditorTransaction: Undo Scale Elements
+[2023.09.22-19.30.50:462][146]Cmd: TRANSACTION UNDO
+[2023.09.22-19.30.50:462][146]LogEditorTransaction: Undo Move Elements
+[2023.09.22-19.30.50:511][146]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2023.09.22-19.30.50:511][146]LogGeometryMode: Warning: Unable to resolve Brush_1 Brush in new BSP, see above
+[2023.09.22-19.30.50:511][146]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2023.09.22-19.31.29:203][118]LogHoudiniEngine: Error: Houdini Engine Session failed to connect -  HARC: Thrift TTransportException (type: NOT_OPEN) Check server address or port.
+Unable to open pipe
+[2023.09.22-19.31.29:203][118]LogHoudiniEngine: Error: Failed to start the Houdini Engine Session
+[2023.09.22-19.32.20:043][288]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.09.22-19.32.21:965][434]Cmd: TRANSACTION UNDO
+[2023.09.22-19.32.21:965][434]LogEditorTransaction: Undo Move Elements
+[2023.09.22-19.32.22:031][434]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_3.BrushComponent0) Trying to register component with IsValid() == false. Aborting.
+[2023.09.22-19.32.40:615][954]LogEditorViewport: Clicking on Actor (double click): Brush (Cone Brush)
+[2023.09.22-19.33.40:389][800]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.09.22-19.33.42:125][800]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.09.22-19.34.04:319][936]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.09.22-19.34.13:398][831]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSceneOutlinerTreeView [SSceneOutliner.cpp(206)].
+[2023.09.22-19.34.13:399][831]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SSceneOutlinerTreeView [SSceneOutliner.cpp(206)].
+[2023.09.22-19.34.13:462][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.09.22-19.34.13:519][831]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.012016 seconds
+[2023.09.22-19.34.13:646][831]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1
+[2023.09.22-19.34.13:646][831]LogSavePackage: Moving '../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Saved/ThirdPersonMap_Auto1CB82B2614516FA979570D2924FC7BAF8.tmp' to '../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto1.umap'
+[2023.09.22-19.34.13:680][831]LogFileHelpers: No new changes to save!
+[2023.09.22-19.34.13:702][831]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER_Auto1
+[2023.09.22-19.34.13:702][831]LogSavePackage: Moving '../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Saved/A7GPT109Y6ZTTJD4A7TXER_Auto1A943065A46B307FB57F3EBBE25027C29.tmp' to '../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER_Auto1.uasset'
+[2023.09.22-19.34.13:703][831]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.285
+[2023.09.22-19.34.13:703][831]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.285
+[2023.09.22-19.34.58:832][ 42]LogSlate: Took 0.033888 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.22-19.35.07:351][ 42]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2023.09.22-19.35.19:852][367]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.09.22-19.35.19:872][367]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.09.22-19.35.19:876][367]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.09.22-19.35.19:898][369]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.09.22-19.35.29:899][204]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SpikesPlatform
+[2023.09.22-19.35.29:936][204]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.09.22-19.35.31:859][356]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform_C
+[2023.09.22-19.35.31:859][356]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform_C
+[2023.09.22-19.35.31:860][356]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform as actor: BP_SpikesPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_SpikesPlatform_C_0
+[2023.09.22-19.35.31:860][356]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform as actor: BP_SpikesPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_SpikesPlatform_C_0
+[2023.09.22-19.35.35:261][641]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform_C
+[2023.09.22-19.35.35:261][641]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform_C
+[2023.09.22-19.35.35:262][641]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform as actor: BP_SpikesPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_SpikesPlatform_C_1
+[2023.09.22-19.35.35:262][641]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform as actor: BP_SpikesPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_SpikesPlatform_C_1
+[2023.09.22-19.35.37:016][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform_C
+[2023.09.22-19.35.37:016][808]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform_C
+[2023.09.22-19.35.37:017][808]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform as actor: BP_SpikesPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_SpikesPlatform_C_2
+[2023.09.22-19.35.37:017][808]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform as actor: BP_SpikesPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_SpikesPlatform_C_2
+[2023.09.22-19.35.37:339][841]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform_C
+[2023.09.22-19.35.37:339][841]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform_C
+[2023.09.22-19.35.37:341][841]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform as actor: BP_SpikesPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_SpikesPlatform_C_UAID_7085C2ADF960B1AB01_1892513887
+[2023.09.22-19.35.37:342][841]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform as actor: BP_SpikesPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_SpikesPlatform_C_UAID_7085C2ADF960B1AB01_1892513887
+[2023.09.22-19.35.39:333][  6]Cmd: DELETE
+[2023.09.22-19.35.39:352][  6]Cmd: ACTOR DELETE
+[2023.09.22-19.35.39:498][  6]LogEditorActor: Deleted Actor: BP_SpikesPlatform_C
+[2023.09.22-19.35.39:521][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.09.22-19.35.39:522][  6]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2023.09.22-19.35.40:684][105]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps/Spikes/BP_SpikesPlatform.BP_SpikesPlatform
+[2023.09.22-19.35.40:689][105]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.22-19.36.14:403][105]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.09.22-19.36.14:403][105]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [30862ms] waiting for h/w. InstanceID=1
+[2023.09.22-19.36.14:403][105]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.023954s
+[2023.09.22-19.36.14:403][105]LogDerivedDataCache: C:/Users/matub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.257 and deleted 0 file(s) with total size 0 MiB.
+[2023.09.22-19.36.14:977][105]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000624s (1.050694s overbudget)
+[2023.09.22-19.36.16:017][105]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16120
+[2023.09.22-19.36.16:017][105]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (1).
+[2023.09.22-19.36.17:017][105]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2023.09.22-19.36.17:017][105]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (2).
+[2023.09.22-19.36.17:030][105]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{8b71016a-e765-44d7-8465-01e094ae1634}, Name=Speakers (2- JBL GO 2)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=67.04
+[2023.09.22-19.36.17:031][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.22-19.36.17:114][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.22-19.36.17:114][105]LogViewport: Scene viewport resized to 738x508, mode Windowed.
+[2023.09.22-19.36.32:890][142]LogViewport: Scene viewport resized to 1141x917, mode Windowed.
+[2023.09.22-19.37.15:374][230]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:375][230]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:383][231]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:383][231]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:383][231]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:396][232]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:397][232]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:397][232]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:419][233]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:419][233]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:419][233]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:432][234]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:432][234]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:432][234]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:445][235]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:446][235]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:446][235]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:457][236]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:458][236]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:458][236]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:473][237]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:473][237]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:473][237]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:494][238]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:494][238]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:494][238]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:507][239]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:507][239]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:507][239]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:517][240]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:517][240]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:517][240]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:531][241]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:531][241]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:531][241]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:546][242]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:546][242]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:546][242]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:560][243]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:561][243]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:561][243]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:575][244]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:575][244]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:575][244]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:591][245]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:592][245]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:592][245]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:615][246]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:615][246]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:615][246]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:628][247]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:629][247]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:629][247]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:641][248]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:641][248]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:641][248]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:652][249]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:652][249]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:652][249]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:667][250]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:667][250]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:667][250]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:683][251]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:683][251]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:683][251]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:697][252]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:697][252]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:697][252]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:711][253]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:712][253]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:712][253]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:726][254]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:726][254]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:726][254]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:740][255]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:740][255]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:740][255]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:755][256]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:755][256]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:755][256]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:770][257]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:770][257]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:770][257]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:786][258]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:786][258]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:786][258]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:811][259]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:812][259]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:812][259]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:824][260]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:824][260]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:824][260]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:836][261]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:837][261]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:837][261]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:848][262]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:849][262]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:849][262]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:865][263]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:865][263]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:865][263]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:878][264]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:878][264]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:878][264]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:893][265]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:893][265]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:893][265]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:907][266]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:907][266]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:907][266]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:922][267]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:922][267]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:922][267]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:937][268]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:937][268]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:938][268]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:951][269]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:951][269]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:951][269]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:968][270]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:969][270]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:969][270]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:982][271]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:982][271]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:982][271]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:995][272]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:995][272]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.15:996][272]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:010][273]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:010][273]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:010][273]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:026][274]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:026][274]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:026][274]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:038][275]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:039][275]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:039][275]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:053][276]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.37.16:054][276]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.FloorMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2023.09.22-19.41.15:385][470]LogEditorTransaction: Undo Modify Component(s)
+[2023.09.22-19.41.22:728][924]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:729][924]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:744][925]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:744][925]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:744][925]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:759][926]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:759][926]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:759][926]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:773][927]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:774][927]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:774][927]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:788][928]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:788][928]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:789][928]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:803][929]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:803][929]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:803][929]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:818][930]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:819][930]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:819][930]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:833][931]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:833][931]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:833][931]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:848][932]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:848][932]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:848][932]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:863][933]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:863][933]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:863][933]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:877][934]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:878][934]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:878][934]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:892][935]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:892][935]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:892][935]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:906][936]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:907][936]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:907][936]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:922][937]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:922][937]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:922][937]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:936][938]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:936][938]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:936][938]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:952][939]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:952][939]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:952][939]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:967][940]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:968][940]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:968][940]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:982][941]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:982][941]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:982][941]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:996][942]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:996][942]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.22:996][942]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:011][943]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:011][943]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:011][943]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:026][944]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:026][944]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:026][944]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:040][945]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:041][945]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:041][945]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:055][946]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:056][946]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:056][946]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:072][947]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:073][947]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:073][947]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:096][948]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:096][948]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:096][948]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:108][949]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:109][949]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:109][949]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:119][950]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:120][950]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:120][950]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:132][951]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:133][951]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:133][951]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:148][952]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:148][952]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:148][952]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:163][953]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:163][953]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:163][953]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:177][954]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:178][954]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:178][954]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:192][955]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:192][955]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:192][955]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:207][956]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:207][956]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:207][956]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:222][957]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:222][957]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:222][957]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:237][958]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:237][958]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:237][958]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:252][959]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:252][959]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:252][959]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:266][960]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:266][960]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:266][960]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:281][961]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:281][961]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:282][961]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:296][962]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:297][962]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:297][962]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:311][963]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:311][963]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:311][963]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:328][964]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:329][964]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:329][964]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:350][965]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:351][965]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:351][965]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:363][966]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:364][966]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:364][966]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:373][967]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:373][967]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:374][967]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:387][968]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:388][968]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:388][968]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:402][969]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:403][969]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:403][969]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:418][970]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.23:418][970]LogPhysics: Warning: Scale for /Engine/Transient.World_2:PersistentLevel.BP_SpikesPlatform_C_0.Spike has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=1.000
+[2023.09.22-19.41.57:167][251]LogSlate: Took 0.003763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.22-19.45.13:105][127]LogEditorTransaction: Undo Modify Component(s)
+[2023.09.22-19.45.55:361][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.09.22-19.45.55:367][323]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto2
+[2023.09.22-19.45.55:368][323]LogSavePackage: Moving '../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Saved/ThirdPersonMap_Auto2A3782FCA4844AA845EF24DB4AF8007AC.tmp' to '../../../../../UE Projects/PrgoMot1/PrgoMot1/ProgramaMot1/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto2.umap'
+[2023.09.22-19.45.55:369][323]LogFileHelpers: No new changes to save!
+[2023.09.22-19.45.55:375][323]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.125
+[2023.09.22-19.45.55:375][323]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.125
+[2023.09.22-19.46.13:973][380]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (HyperX Cloud Revolver S), InstanceID=1
+[2023.09.22-19.46.13:973][380]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16120
+[2023.09.22-19.46.14:290][380]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{383fcdb2-61bb-410c-8c11-96aab591d15c}, Name=Speakers (HyperX Cloud Revolver S)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.66
+[2023.09.22-19.46.14:290][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.09.22-19.46.14:310][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.22-19.47.43:304][882]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.09.22-19.47.43:472][882]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.168 s
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: === Handled ensure: ===
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: 
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: Ensure condition failed: false [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\AABBTree.h] [Line: 1507]
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: AABBTree encountered invalid bounds input. Forcing element to global payload. Min: X=-25.000 Y=-15.000 Z=-1000000000000025.000 Max: X=-15.000 Y=-5.000 Z=-999999999999975.000. If Bounds are valid but large, increase FAABBTreeCVars::MaxNonGlobalElementBoundsExtrema.
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: Stack: 
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd41bc1fdc UnrealEditor-Chaos.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd4248ed1d UnrealEditor-Chaos.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd44057aa8 UnrealEditor-PhysicsCore.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd48d2fc0e UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd492747de UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd48d53bd5 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd48d54126 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd482f6a8f UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd483c998e UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd48252324 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd48284cc9 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd4956a1dc UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd494ca32e UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd494ca6a1 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd494ca6a1 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd49545753 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd47d3d8b2 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd47d692bb UnrealEditor-Engine.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd4346de76 UnrealEditor-Kismet.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd463b9acd UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd463b2538 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd434d66d0 UnrealEditor-Kismet.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd462ee9d6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffd46c7aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ff7538a82f6 UnrealEditor.exe!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ff7538c0d9c UnrealEditor.exe!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ff7538c0e8a UnrealEditor.exe!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ff7538c3c4d UnrealEditor.exe!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ff7538d5564 UnrealEditor.exe!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ff7538d8736 UnrealEditor.exe!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffdc31153e0 KERNEL32.DLL!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: [Callstack] 0x00007ffdc4ee485b ntdll.dll!UnknownFunction []
+[2023.09.22-19.47.43:472][882]LogOutputDevice: Error: 
