@@ -6,3 +6,18 @@
 [0929/181945.330:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0929/181945.381:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0929/181945.382:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1005/222842.313:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1005/222842.313:ERROR:entry_impl.cc(1076)] No file for c1030004
+[1005/222842.313:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.313:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.313:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.313:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.313:ERROR:entry_impl.cc(1076)] No file for c1030000
+[1005/222842.313:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.313:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.313:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.313:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.313:ERROR:entry_impl.cc(1076)] No file for c1030008
+[1005/222842.314:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.314:WARNING:storage_block-inl.h(146)] Failed data load.
+[1005/222842.314:WARNING:storage_block-inl.h(146)] Failed data load.
